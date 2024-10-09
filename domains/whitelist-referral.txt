@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Oct 2024 21:31 UTC
-# Version: 2024.1007.2131.12
+# Last modified: 08 Oct 2024 21:34 UTC
+# Version: 2024.1008.2134.13
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2035
+# Number of entries: 2039
 #
 l.1mp.ru
 t.1und1.de
@@ -815,6 +815,7 @@ sites.hscoscdn-eu1.net
 142290803.sites.hscoscdn-eu1.net
 24855078.sites.hscoscdn-eu1.net
 24911003.sites.hscoscdn-eu1.net
+24913472.sites.hscoscdn-eu1.net
 25149585.sites.hscoscdn-eu1.net
 25218657.sites.hscoscdn-eu1.net
 25276355.sites.hscoscdn-eu1.net
@@ -1293,6 +1294,7 @@ mkto-ab560068.com
 mkto-ab560119.com
 mkto-ab560136.com
 mkto-ab560142.com
+mkto-ab560160.com
 mkto-ab560171.com
 mkto-ab560181.com
 mkto-ab570006.com
@@ -1648,6 +1650,7 @@ mkto-sjh0213.com
 mkto-sjh0224.com
 mkto-sji0071.com
 mkto-sji0303.com
+mkto-sji0321.com
 mkto-sjint0002.com
 mkto-sjl0287.com
 mkto-sjn0077.com
@@ -1812,6 +1815,7 @@ rkypyqrab.cc.rs6.net
 rmjddbabb.cc.rs6.net
 rmnbcy7ab.cc.rs6.net
 roli8hmab.cc.rs6.net
+rptcs9bab.cc.rs6.net
 rpxfhbhbb.cc.rs6.net
 rq656jlab.cc.rs6.net
 rqtqnaqab.cc.rs6.net

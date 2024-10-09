@@ -1,27 +1,4 @@
 # Domains to be added to the gambling list.
-
-ad.yo88.tv
-yo88.tv
-lol605.com
-lol606.com
-lol610.com
-lol661.com
-lol662.com
-lol664.com
-lol665.com
-lol668.com
-lol669.com
-max88.com
-net88.ac
-net88.tv
-soc88.com
-ko668.in
-images.1138403.com
-images.3953049.com
-1138403.com
-3953049.com
-ftq2.short.gy
-
 0-bet.com
 0-betsixty.com
 000000.com
@@ -2205,6 +2182,7 @@ ftq2.short.gy
 11356v.com
 11379992.com
 1137s.com
+1138403.com
 11386v.com
 1138v.com
 11391v.com
@@ -13347,6 +13325,7 @@ ftq2.short.gy
 3952k.com
 3952n.com
 3952x.com
+3953049.com
 3953k.com
 3953x.com
 395523.com
@@ -36355,6 +36334,7 @@ aculogin.xyz
 acyjib9m.yachts
 aczuyv1o.yachts
 ad.gem3.win
+ad.yo88.tv
 ad0621.com
 ad21cda.com
 ad36555.com
@@ -49102,6 +49082,7 @@ ft99kr01.com
 fta888.com
 fthbet.com
 ftkr99.com
+ftq2.short.gy
 ftt184.com
 ftt184.live
 fty.pt.cdn-dysxb.com
@@ -53284,8 +53265,10 @@ im877.net
 image.beike188.com
 images.1097638.com
 images.11029984.com
+images.1138403.com
 images.21947392.com
 images.29210120.com
+images.3953049.com
 images.b141847.com
 images.htqwhj.com
 images.ku6103.net
@@ -57902,6 +57885,7 @@ knownsrv.com
 ko0002.com
 ko001.com
 ko666.bet
+ko668.in
 ko66aa.com
 ko66aa.fun
 ko66aa.info
@@ -59724,6 +59708,15 @@ logmoon88.com
 lohanresmi.com
 lohansejahtera.com
 lois22ajjh.uk
+lol605.com
+lol606.com
+lol610.com
+lol661.com
+lol662.com
+lol664.com
+lol665.com
+lol668.com
+lol669.com
 lolilep.sbs
 lolly-bet.app
 lolly-bet1.fr
@@ -59751,7 +59744,6 @@ lordpetir.xyz
 lorenzo.illnesstrick.xyz
 lorenzoplaymax.com
 lornzoys.cc
-lostmediawiki.com
 loto188.solar
 loto188.style
 loto66.com
@@ -63274,6 +63266,7 @@ net33d.com
 net777.org
 net88.ac
 net88.com
+net88.tv
 net88.vip
 netent.com
 netizen303-slot.com
@@ -82326,6 +82319,7 @@ ymmbbd3y.yachts
 ymnnypom23us.flash-speed-up.com
 ynapc.com
 ynso1511.xyz
+yo88.tv
 yobo9898.com
 yobovip.com
 yoda4d02.club
