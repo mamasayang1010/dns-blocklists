@@ -190061,7 +190061,6 @@
 *.analytics.query.yahooapis.com
 *.metric.coronae.yahoobix.com
 *.metric.www.yahoobix.com
-*.any-ycpi-uno.aycpi.b.yahoodns.net
 *.flury-ycpi.gycpi.b.yahoodns.net
 *.flurry.gycs.b.yahoodns.net
 *.fam-geo-atsv2.prod.media.g03.yahoodns.net

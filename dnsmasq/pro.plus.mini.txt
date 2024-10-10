@@ -99093,7 +99093,6 @@ local=/aag.yahooapis.jp/
 local=/analytics.query.yahooapis.com/
 local=/metric.coronae.yahoobix.com/
 local=/metric.www.yahoobix.com/
-local=/any-ycpi-uno.aycpi.b.yahoodns.net/
 local=/flury-ycpi.gycpi.b.yahoodns.net/
 local=/flurry.gycs.b.yahoodns.net/
 local=/fam-geo-atsv2.prod.media.g03.yahoodns.net/
