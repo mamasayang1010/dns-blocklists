@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 08 Oct 2024 21:34 UTC
-# Version: 2024.1008.2134.13
+# Last modified: 09 Oct 2024 21:31 UTC
+# Version: 2024.1009.2131.38
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2039
+# Number of entries: 2040
 #
 l.1mp.ru
 t.1und1.de
@@ -1820,6 +1820,7 @@ rpxfhbhbb.cc.rs6.net
 rq656jlab.cc.rs6.net
 rqtqnaqab.cc.rs6.net
 rrd9h64ab.cc.rs6.net
+rrtdkicbb.cc.rs6.net
 rspxmbtab.cc.rs6.net
 rt7utobab.cc.rs6.net
 rtaw7vebb.cc.rs6.net
