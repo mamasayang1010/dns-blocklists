@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Oct 2024 22:27 UTC
-# Version: 2024.1009.2227.58
+# Last modified: 10 Oct 2024 22:37 UTC
+# Version: 2024.1010.2237.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 34421
+# Number of entries: 34397
 #
 0-betsixty.com
 0-casino.info
@@ -1758,7 +1758,6 @@ images.3138722.com
 331369.com
 331731.com
 331736.com
-332138.com
 333.vip
 3330266.com
 3333033.com
@@ -1935,7 +1934,6 @@ www.33beta.com
 365.rs
 365-288.com
 365-808.com
-365365248.com
 365488.com
 365666.lol
 3656ii.net
@@ -2027,7 +2025,6 @@ www.33beta.com
 3in1bet.com
 3iplwin.com
 3js5.net
-3js56.net
 3king01.com
 3lotrewap.xyz
 3malinacasino.com
@@ -2081,7 +2078,6 @@ www.3zbet.com
 42hi88.com
 42icecasino.com
 4323555.com
-43862.vip
 44002023.com
 4400502.com
 440099.com
@@ -2161,7 +2157,6 @@ www.3zbet.com
 4466qq1.com
 4466s.vip
 4466ssvip.org
-4466svip.com
 4466svip.store
 4466svip.vip
 4466tutu.com
@@ -2329,7 +2324,6 @@ www.3zbet.com
 513243.com
 513366.com
 5151.com
-51567.net
 515789.cc
 51xbet.com
 51yabo.com
@@ -2595,7 +2589,6 @@ www.3zbet.com
 5zhibo8.com
 6008015.com
 6008142.com
-600qy.com
 60100su.com
 604bets10.com
 60654a.com
@@ -2673,7 +2666,6 @@ www.3zbet.com
 64good88.com
 650103.com
 650nn.com
-653637.com
 6549.com
 658bet.com
 658bet1.com
@@ -2703,11 +2695,9 @@ www.3zbet.com
 6633win.com
 66442007.com
 6644540.com
-665099.com
 6655789.com
 6656757.com
 6661919.com
-66649hao.app
 66661s.com
 6666bet.bet
 6666bet.com
@@ -2744,10 +2734,6 @@ www.3zbet.com
 6686.team
 6686.vin
 6686.win
-66861188.app
-6686503.app
-6686526.app
-6686543.app
 6686bet50.com
 6686e4.app
 6686h01.com
@@ -3102,6 +3088,7 @@ images.6929183.com
 777azinocasino-24.com
 777balls.com
 777bay.com
+777bet.io
 777brazil.com
 777casinobonus.net
 777dabao.com
@@ -4323,7 +4310,6 @@ app.8xbet-vip.io
 91111002.com
 91111003.com
 91111004.com
-91111005.com
 91111006.com
 91111008.com
 91111009.com
@@ -4345,7 +4331,6 @@ app.8xbet-vip.io
 924747.com
 924bets10.com
 927fu.com
-928227.com
 9283v.com
 9292050.com
 92928.vip
@@ -4866,7 +4851,6 @@ www.ae888.com
 ae88805.net
 ae999.co
 aebet.bet
-aekkawit12.vip
 aev888.net
 www.aevn52888.com
 aevn999.com
@@ -6481,6 +6465,7 @@ bet9.com
 bet90.com
 bet91casino.com
 bet96933.com
+bet97988.com
 bet97k.com
 bet97n.com
 bet97o.com
@@ -6846,6 +6831,7 @@ betonsports.com
 betonusa.ag
 betorcasino.click
 betorcasino.top
+betovo.com
 betowi.com
 betpack.com
 betpal.com
@@ -8044,6 +8030,7 @@ brslotbet.com
 brslotgames.com
 brslotgames2.com
 brttt.com
+bruce.bet
 brunocasino.click
 brunocasino.com
 brunocasino.top
@@ -8063,7 +8050,6 @@ bsbet3.com
 bsbet88.com
 bsport.io
 bstcasinos.com
-bt8.app
 btc365.com
 btcasino.net
 btccasinoguide.com
@@ -15903,7 +15889,6 @@ cl-glbb6db8e4.gcdn.co
 gceln.com
 gclub-casino.com
 gclubcasino.top
-gclubcasinoonline.com
 gclubthcasino.com
 cmbi.gcpimg.com
 gcrics.com
@@ -17241,6 +17226,7 @@ hotbetcasino.top
 hotcasinoonline.info
 hotcuchot.com
 hotel-majestic.gr
+hotel808.com
 hoteldiskon.site
 hotelhonokaa.com
 hotelportsitges.com
@@ -20458,7 +20444,6 @@ kombolotto.com
 komedi4dcuk.com
 komedi4dcuk.xyz
 komeng4d.site
-komkit1993.vip
 komodo4djoin.com
 komogvind.dk
 kompaspt2.xyz
@@ -21564,7 +21549,6 @@ loterija.si
 loto.lt
 loto.mk
 loto.ro
-loto188az.com
 loto188go.com
 loto288.com
 loto66.com
@@ -22628,6 +22612,7 @@ member5unsur.com
 memberharta8899.com
 memberpajero.land
 meme4d.land
+memocasino.com
 menang123-lincah.com
 menang88pkr.co
 menangacc.shop
@@ -22693,7 +22678,6 @@ mgjogo.com
 mgm-mirage.com
 mgm6668.com
 mgm6868.com
-mgm7040.com
 mgm99win.casino
 mgmbaccarat.com
 mgmcasino.com
@@ -22842,7 +22826,6 @@ mm777.com
 mm777.org
 mm777.win
 mmmahkota69.com
-mmmay021504.vip
 res.mmmgcdn.com
 mmmjl.com
 mn-lottery.net
@@ -23237,7 +23220,6 @@ muraibetslot.casino
 muraibetslot.dev
 musapg.com
 musichallcasino.eu
-musimqqpkv.pro
 mustang303our.org
 mutiara69wn.sbs
 mutubet88x.com
@@ -23681,6 +23663,8 @@ new88ff.com
 new88g.com
 new88gg.com
 new88h.com
+new88j.com
+new88m.com
 new88o.com
 new88q.com
 new88s.com
@@ -26471,7 +26455,6 @@ princemonacocasino.com
 princesscasino.top
 princesscasinoonline.ro
 princetimur99.com
-printable365.com
 td.prism.bet
 prismcasino.com
 private-casinos.com
@@ -26689,7 +26672,6 @@ qiwictf-jet-casino.com
 qizilbilet-34266.top
 qizilbilet-35563.top
 qizilbilet-36307.top
-qk999998d.vip
 qkk.bet
 qkkbet.vip
 qkkbet0.com
@@ -27505,6 +27487,7 @@ rollinghillscasino.com
 rollingriches.com
 rollingslot.com
 rollingslots.com
+rollingslots31.com
 rollino.bet
 rollino.co
 rollino.vip
@@ -30838,7 +30821,6 @@ thabet.co
 thabet.gg
 thabet.one
 thabet.vip
-thabet88.info
 thabet999.com
 thai-casinos.com
 thai580.com
@@ -31867,6 +31849,7 @@ uscasinoreal.com
 uscasinos.com
 uscasinosrated.com
 usermonabet88.com
+usl39c.bet
 usonlinecasino.com
 uspjogo.com
 usrealcasino.com
@@ -33281,8 +33264,6 @@ wede777l.xyz
 wede777m.xyz
 wederajatoto4.com
 weeklycasinos.com
-weide444.com
-weide999.com
 weiss.bet
 weiss-casino.org
 wekopacasinoresort.com
@@ -33862,7 +33843,6 @@ ww8849.cc
 ww8855.cc
 ww88a.com
 ww88aa.vip
-ww88co.com
 ww88gihg.cc
 ww88i.com
 ww88j.com
@@ -34147,9 +34127,6 @@ yeszon.com
 yetcasino.com
 yeticasino.com
 yfw0en.ink
-yh88837.com
-yh88838.com
-yh88867.com
 yh99929.com
 yhc775.com
 yhdtjiekou.com
@@ -34209,7 +34186,6 @@ yoyocasino.com
 yoyocasino.top
 yoyocasino4.com
 yruws6.com
-ys3322.com
 ys88vvip.com
 ys9026.com
 ysb8q.com

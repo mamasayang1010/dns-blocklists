@@ -247,6 +247,7 @@ iqunix.store
 shoplazza.store
 timberjacks.store
 catflix.su
+promportal.su
 s-wings.surf
 adistance.tk
 bonzibuddy.tk

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Oct 2024 23:07 UTC
-# Version: 2024.1009.2307.19
+# Last modified: 10 Oct 2024 23:16 UTC
+# Version: 2024.1010.2316.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12789
+# Number of entries: 12790
 #
 *.01crypto.com
 *.1-stud.net
@@ -360,7 +360,6 @@
 *.alphateamcars.shop
 *.alpineskiequipment.com
 *.alpspitz-tech.de
-*.alro-stahlbau.de
 *.alt-cpm.com
 *.altasshop.com
 *.alter48.fr
@@ -554,6 +553,7 @@
 *.apparellead.com
 *.apparellucky.com
 *.appareltrue.com
+*.apparelusmen.com
 *.apparelvalid.com
 *.appblizz.com
 *.appearancesimplle.com
@@ -788,6 +788,7 @@
 *.autoreifen-peter.shop
 *.autoreifen-pfaff.com
 *.autoreifen-pohl.shop
+*.autoreifen-rohde.com
 *.autoreifen-schade.shop
 *.autoreifen-scheffler.com
 *.autoreifen-schmitz.com
@@ -1309,6 +1310,7 @@
 *.bikehero.net
 *.bikehosesrabatt.com
 *.bikekassettende.com
+*.bikekauf.com
 *.bikelifepro.com
 *.bikelightneu.com
 *.bikemarket.com
@@ -1910,7 +1912,6 @@
 *.carolyndozier.com
 *.carpet-crafters.com
 *.carpetusworld.com
-*.carpkorda.com
 *.carportsonshop.com
 *.carportssale.com
 *.carrelage-paulay.com
@@ -2217,7 +2218,6 @@
 *.clothesmountain.com
 *.clothesoptinfo.com
 *.clothespalm.com
-*.clothespremium.com
 *.clothesvb.com
 *.clothing-ladies.com
 *.clothingbold.com
@@ -2578,6 +2578,7 @@
 *.cyclingzx.com
 *.cyno-sainti.ch
 *.czechdelights.com
+*.d-apotheke.de
 *.d-personensuche.de
 *.d0ood.com
 *.da-boutique.com
@@ -3233,6 +3234,7 @@
 *.edgyfashionfinery.com
 *.edgyusfemale.com
 *.edhealthpills.top
+*.edierubenstein.com
 *.edigitalelectronics.com
 *.edirectclub.hk
 *.edisonlamps.co
@@ -3557,6 +3559,7 @@
 *.eufootwear.com
 *.eugadneu.de
 *.eugeneoutlet.com
+*.euholz.com
 *.euisabelmarant.de
 *.eukram.com
 *.eulifeline.de
@@ -3996,7 +3999,6 @@
 *.fishingareaus.com
 *.fishingjandh.com
 *.fishingkitretail.com
-*.fishingpredator.com
 *.fishingretail-us.com
 *.fishingsale.space
 *.fit-perfect.de
@@ -4347,6 +4349,7 @@
 *.game-byte.com
 *.game-dynamics.com
 *.game-str.com
+*.gamebasic-de.com
 *.gamecityz.com
 *.gameparadies.com
 *.gamer-zone.store
@@ -4625,6 +4628,7 @@
 *.glassesde.com
 *.glemory.com
 *.glennauto.shop
+*.glitzce.com
 *.glitzermoment.com
 *.global-grupoinnovation.com
 *.global-ltd.de
@@ -5352,6 +5356,7 @@
 *.holzmullerfirewood.com
 *.holzmullerfirewood-shop.com
 *.holzpellets-brennholz.com
+*.holzpelletsland.shop
 *.holzqualitat.de
 *.holzs-werk.de
 *.holzti.com
@@ -5426,7 +5431,6 @@
 *.homewaregaggenau.com
 *.homewarelimit.com
 *.homewareoff.com
-*.homewareoffers.com
 *.homewareover.com
 *.homewarevilleroy.com
 *.homingo.de
@@ -6260,7 +6264,6 @@
 *.klassischesfahrradneu.com
 *.klaus-ziegert.de
 *.klax24.de
-*.kleankanteenbottle.com
 *.kleidermafia.shop
 *.kleidungkin.de
 *.kleidungliebe.de
@@ -6678,6 +6681,7 @@
 *.limitangling.com
 *.limitbalenciaga.com
 *.limitbikesite.com
+*.limitbivouac.com
 *.limitcarlsontool.com
 *.limitcovogue.com
 *.limited-cycle.com
@@ -6726,6 +6730,7 @@
 *.livingroomtidy.com
 *.livsy.de
 *.ljaircooledenginde.shop
+*.lkw-mieten-wien.at
 *.llanos-performance.de
 *.ller.net
 *.lloydschuhe.at
@@ -6815,6 +6820,7 @@
 *.lovebikestore.com
 *.lovegoldsale.com
 *.loveladywearpro.com
+*.lovelygen.com
 *.lovelyknife.com
 *.lovemedobabyde.shop
 *.lovepills.de
@@ -7843,7 +7849,6 @@
 *.newkids-toys.com
 *.newland-travel.com
 *.newlivingroomchairs.com
-*.newluxury-us.com
 *.newmissstylish.com
 *.newmotorcyclesell.com
 *.newopenairhut.com
@@ -8468,7 +8473,6 @@
 *.cheap-sale.outletsale2022.ru
 *.outletsalomon.com
 *.outletsbaby.com
-*.outletselected.com
 *.outletsloggi.com
 *.outletstoic.com
 *.outletstreamline.com
@@ -9395,7 +9399,6 @@
 *.reinekedesign.com
 *.reinhardt-reifenversand.shop
 *.reinholdrasenmaher.com
-*.reisebuero-schneider.com
 *.reisetaschenonshop.com
 *.reisetaschensale.com
 *.reisetaschenstore.com
@@ -9730,7 +9733,6 @@
 *.salejerseysshop.com
 *.saleknitwear.com
 *.saleladyfad.com
-*.saleladyfashion.com
 *.saleladywear.com
 *.salelampshade.com
 *.salelighters.com
@@ -10149,7 +10151,6 @@
 *.shopbagwallet.com
 *.shopballgame.com
 *.shopbeautydepotde.shop
-*.shopbeaverbrooks.com
 *.shopbikeclothes.com
 *.shopbusinessshirt.com
 *.shopcampinghiking.com
@@ -10172,7 +10173,6 @@
 *.shopkamagra.org
 *.shopkrone.de
 *.shoplacademie.com
-*.shopladyfashion.com
 *.shoplazo.com
 *.shoplostfounde.shop
 *.shoplyt.store
@@ -10598,6 +10598,7 @@
 *.statehills.com
 *.stationeryopt.com
 *.stationerythe.com
+*.stationsparty.de
 *.staubsauger-deals.com
 *.staubsauger-spar-deals.com
 *.staubsaugerhaus.de
@@ -10974,7 +10975,6 @@
 *.tagkitchenware.de
 *.taiga-handel.de
 *.taihand.com
-*.tailorwears.com
 *.takeyabottleusa.com
 *.taki-taki.de
 *.taktischewelt.com
@@ -11053,6 +11053,7 @@
 *.tedbakeroutletsuomi.com
 *.tedbakersuomi.net
 *.tedex.live
+*.tees-cool.com
 *.tees-hip.com
 *.teeshoppen.shop
 *.shop.tegeler.com
@@ -11757,7 +11758,6 @@
 *.uniqlo-suomi.com
 *.uniqloaustria.at
 *.uniqlosuomioutlet.com
-*.uniqlowien.com
 *.unique-exchange.co
 *.uniquelampus.com
 *.uniqueshop-us.com
@@ -12237,7 +12237,6 @@
 *.wagnerbois.com
 *.wakcoffee.de
 *.wakeboardde.com
-*.wal24.de
 *.walbaum-brennholz.com
 *.waldgewandt.de
 *.waldholz.net
@@ -12360,6 +12359,7 @@
 *.welpenkaufen.at
 *.welta.pro
 *.weltentdeckerisbach.shop
+*.weltmeisterwelpenhause.com
 *.weltweit-akkus.de
 *.wemida.net
 *.wendysophie.com
@@ -12771,6 +12771,7 @@
 *.zoneglassart.com
 *.zonekredits.com
 *.zonesportsus.com
+*.zonetoolopt.com
 *.zonevogue-us.com
 *.zoomil.de
 *.zoomoption.com

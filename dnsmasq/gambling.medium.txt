@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 10 Oct 2024 06:01 UTC
-# Version: 2024.1010.0601.38
+# Last modified: 10 Oct 2024 22:47 UTC
+# Version: 2024.1010.2247.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 164046
+# Number of entries: 164056
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -52247,6 +52247,7 @@ local=/777azinocasino.org/
 local=/777azinocasino-24.com/
 local=/777balls.com/
 local=/777bay.com/
+local=/777bet.io/
 local=/777bets.shop/
 local=/777bjl99.com/
 local=/777brazil.com/
@@ -52337,6 +52338,7 @@ local=/777mb.net/
 local=/777mec.org/
 local=/777mec.vip/
 local=/777mgm.co/
+local=/777milkywins.com/
 local=/777mu88.com/
 local=/777n83.com/
 local=/777ney.cc/
@@ -77138,6 +77140,7 @@ local=/bet9677.com/
 local=/bet96933.com/
 local=/bet9733.com/
 local=/bet978978.com/
+local=/bet97988.com/
 local=/bet97download.lol/
 local=/bet97k.com/
 local=/bet97l.com/
@@ -77857,6 +77860,7 @@ local=/betosfer.com/
 local=/betoto.com/
 local=/betoto.gr/
 local=/betovis.com/
+local=/betovo.com/
 local=/betovo68348.com/
 local=/betowi.com/
 local=/betpack.com/
@@ -81087,6 +81091,7 @@ local=/brslotbet.com/
 local=/brslotgames.com/
 local=/brslotgames2.com/
 local=/brttt.com/
+local=/bruce.bet/
 local=/bruno-casino-france.com/
 local=/bruno-casino-france.net/
 local=/brunocasino.click/
@@ -105988,6 +105993,7 @@ local=/hotel-casinorewa.com/
 local=/hotel-casinosunday.com/
 local=/hotel-casinotop-world.com/
 local=/hotel-majestic.gr/
+local=/hotel808.com/
 local=/hotelcasinolisttop.com/
 local=/hotelcasinoscanada.com/
 local=/hotelcasinoslists.com/
@@ -124275,6 +124281,7 @@ local=/meme2019.com/
 local=/meme4d.land/
 local=/memecasino.games/
 local=/memeda918.com/
+local=/memocasino.com/
 local=/memori77.com/
 local=/menang123-lincah.com/
 local=/menang2.io/
@@ -138029,6 +138036,7 @@ local=/rollingslots.com/
 local=/rollingslots08.com/
 local=/rollingslots15.com/
 local=/rollingslots23.com/
+local=/rollingslots31.com/
 local=/rollingslots7.com/
 local=/rollino.bet/
 local=/rollino.co/
@@ -140299,6 +140307,7 @@ local=/support.scalealchemy.io/
 local=/scandibet.com/
 local=/scandicbookmakers.com/
 local=/scanthor89.com/
+local=/scarab-wins.com/
 local=/scarabwins.com/
 local=/scarlettcasino.com/
 local=/scarybingo.com/
@@ -150892,6 +150901,7 @@ local=/usdtfa0.com/
 local=/usermonabet88.com/
 local=/userqddal.store/
 local=/ushntao.xyz/
+local=/usl39c.bet/
 local=/usonlinecasino.com/
 local=/uspjogo.com/
 local=/usrealcasino.com/
