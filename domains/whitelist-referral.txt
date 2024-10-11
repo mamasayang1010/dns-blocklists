@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 09 Oct 2024 21:31 UTC
-# Version: 2024.1009.2131.38
+# Last modified: 11 Oct 2024 10:50 UTC
+# Version: 2024.1011.1050.10
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2040
+# Number of entries: 2043
 #
 l.1mp.ru
 t.1und1.de
@@ -131,6 +131,7 @@ click.appcast.io
 c.apple.com
 app.appsflyer.com
 customlinks.appsflyer.com
+engagements.appsflyer.com
 tr.apsis.one
 uns.apsis.one
 ad.atdmt.com
@@ -1014,6 +1015,7 @@ links.mkt81.net
 mkto-a0236.com
 mkto-a0253.com
 mkto-a0324.com
+mkto-a0342.com
 mkto-ab010012.com
 mkto-ab010044.com
 mkto-ab010088.com
@@ -1333,6 +1335,7 @@ mkto-abc0196.com
 mkto-abc0203.com
 mkto-abd0206.com
 mkto-abd0218.com
+mkto-abd0224.com
 mkto-abj0022.com
 mkto-abj0025.com
 mkto-abm0016.com

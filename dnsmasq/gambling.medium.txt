@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 10 Oct 2024 22:47 UTC
-# Version: 2024.1010.2247.58
+# Last modified: 11 Oct 2024 15:32 UTC
+# Version: 2024.1011.1532.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 164056
+# Number of entries: 164061
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -14498,6 +14498,7 @@ local=/20api.com/
 local=/20banca.com/
 local=/20bestcasinos.com/
 local=/20bet.com/
+local=/20bet.dk/
 local=/20bet.partners/
 local=/20bet.win/
 local=/20bet999.bet/
@@ -42614,6 +42615,7 @@ local=/63hdgd.space/
 local=/63heji.com/
 local=/63hjdc.com/
 local=/63merryph.club/
+local=/63nolimitway.com/
 local=/63wan.com/
 local=/63yd.bet/
 local=/63yh98.com/
@@ -78834,6 +78836,7 @@ local=/biglotre6.info/
 local=/biglotre7.info/
 local=/biglotre8.info/
 local=/bigluck.xyz/
+local=/bigluck-brucebet.com/
 local=/bigluck8emas.xyz/
 local=/bigluckfun8.xyz/
 local=/bigluckselalu8.fun/
@@ -89247,6 +89250,7 @@ local=/bet365.com.cy/
 local=/bet66.com.au/
 local=/betandreas.com.in/
 local=/betapuestas.com.ar/
+local=/betboom.com.br/
 local=/betcity.com.ru/
 local=/betdeluxe.com.au/
 local=/betdogs.com.au/
@@ -144251,6 +144255,7 @@ local=/stake-casino.space/
 local=/stake-casino.uno/
 local=/stake100.com/
 local=/stake1001.com/
+local=/stake1005.com/
 local=/stake7.com/
 local=/stakebob.com/
 local=/stakecasino.click/
