@@ -1,5 +1,8 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# Referral
+engagements.appsflyer.com
+
 # Slow loading of the top images (tiles) in the new Windows 11 App Store
 *.bat.bing.com
 
