@@ -1,5 +1,9 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# "Shein Mystery Box Giveaway Winner" Phishing
+formally-up.com
+lvrv0gkspz.blob.core.windows.net
+
 # Netflix phishing
 aktivierung-info.com
 
