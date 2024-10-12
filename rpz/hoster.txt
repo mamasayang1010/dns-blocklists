@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1728540240 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1728684840 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Oct 2024 06:04 UTC
-; Version: 2024.1010.0604.08
+; Last modified: 11 Oct 2024 22:14 UTC
+; Version: 2024.1011.2214.46
 ; Syntax: RPZ
 ; Number of entries: 3706
 ;
@@ -989,8 +989,6 @@ freehostingcloud.com CNAME .
 *.freehostingcloud.com CNAME .
 freehostingeu.com CNAME .
 *.freehostingeu.com CNAME .
-freehostingking.com CNAME .
-*.freehostingking.com CNAME .
 freehostplace.com CNAME .
 *.freehostplace.com CNAME .
 freehostyou.com CNAME .
@@ -1139,6 +1137,8 @@ infinityfree.com CNAME .
 *.infinityfree.com CNAME .
 infinityfreeapp.com CNAME .
 *.infinityfreeapp.com CNAME .
+insanejournal.com CNAME .
+*.insanejournal.com CNAME .
 instantfreesite.com CNAME .
 *.instantfreesite.com CNAME .
 inube.com CNAME .
@@ -1221,8 +1221,6 @@ lucialpiazzale.com CNAME .
 *.lucialpiazzale.com CNAME .
 luwebs.com CNAME .
 *.luwebs.com CNAME .
-luzzati.com CNAME .
-*.luzzati.com CNAME .
 lydincentives.com CNAME .
 *.lydincentives.com CNAME .
 maddsites.com CNAME .
@@ -1365,6 +1363,8 @@ podia.com CNAME .
 *.podia.com CNAME .
 popup-blog.com CNAME .
 *.popup-blog.com CNAME .
+portfoliopen.com CNAME .
+*.portfoliopen.com CNAME .
 post-blogs.com CNAME .
 *.post-blogs.com CNAME .
 postbit.com CNAME .

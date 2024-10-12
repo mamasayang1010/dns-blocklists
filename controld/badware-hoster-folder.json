@@ -6056,13 +6056,6 @@
       }
     },
     {
-      "PK": "freehostingking.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "freehosting.net",
       "action": {
         "do": 0,
@@ -7267,6 +7260,13 @@
       }
     },
     {
+      "PK": "insanejournal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "instantfreesite.com",
       "action": {
         "do": 0,
@@ -8024,13 +8024,6 @@
     },
     {
       "PK": "luwebs.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "luzzati.com",
       "action": {
         "do": 0,
         "status": 1
@@ -9487,6 +9480,13 @@
     },
     {
       "PK": "portal.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "portfoliopen.com",
       "action": {
         "do": 0,
         "status": 1

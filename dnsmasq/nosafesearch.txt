@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Oct 2024 22:05 UTC
-# Version: 2024.1001.2205.10
+# Last modified: 11 Oct 2024 22:09 UTC
+# Version: 2024.1011.2209.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 224
+# Number of entries: 221
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -17,7 +17,6 @@ local=/haku.ahmia.fi/
 local=/search.ahwx.org/
 local=/search.albony.xyz/
 local=/alltheinternet.com/
-local=/zoek.anchel.nl/
 local=/andisearch.com/
 local=/recherche.aol.fr/
 local=/search.aol.ca/
@@ -36,7 +35,6 @@ local=/boomle.com/
 local=/search.bowlman.org/
 local=/search.bus-hit.me/
 local=/sx.catgirl.cloud/
-local=/recherche.catmargue.org/
 local=/search.aol.co.uk/
 local=/websearch.excite.co.jp/
 local=/searx.com.au/
@@ -57,7 +55,6 @@ local=/searxng.diadz.de/
 local=/search.disroot.org/
 local=/searx.divided-by-zero.eu/
 local=/dogpile.com/
-local=/searx.dojocasts.com/
 local=/search.dojoro.de/
 local=/searx.doofpot.nl/
 local=/search.dr460nf1r3.org/

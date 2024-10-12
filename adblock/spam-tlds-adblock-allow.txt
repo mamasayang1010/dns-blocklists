@@ -49,6 +49,7 @@
 @@||mbcherohub.club^
 @@||pdfmagazines.club^
 @@||thelemmy.club^
+@@||libre.computer^
 @@||neat.computer^
 @@||silly.computer^
 @@||hammertime.cyou^
