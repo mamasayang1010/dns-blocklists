@@ -1,6 +1,6 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
-# Adblock detection on bilde.de and others
+# Adblock detection on bild.de and others
 tags.tiqcdn.com
 tags-eu.tiqcdn.com
 www.asadcdn.com
@@ -13,12 +13,6 @@ cstat.g.aaplimg.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3599
 px-conf.perimeterx.net
-
-# https://github.com/hagezi/dns-blocklists/issues/3573
-heartbeats.prd.data.s.joyn.de
-# https://github.com/AdguardTeam/AdguardFilters/issues/183277
-event-collector.prd.data.s.joyn.de
-event-collector.stg.data.s.joyn.de
 
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2319169147
 optimizationguide-pa.googleapis.com 

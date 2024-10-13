@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 12 Oct 2024 22:38 UTC
-! Version: 2024.1012.2238.26
+! Last modified: 13 Oct 2024 15:31 UTC
+! Version: 2024.1013.1531.07
 ! Syntax: AdBlock
-! Number of entries: 33898
+! Number of entries: 33886
 !
 ||0-betsixty.com^
 ||0-casino.info^
@@ -609,9 +609,9 @@
 ||16krwin.com^
 ||16xin.com^
 ||1717.com^
-||1717dk.net^
 ||1722n.com^
 ||1728855.com^
+||172qtt.com^
 ||178278.com^
 ||1788casino.com^
 ||1789bet.com^
@@ -629,6 +629,7 @@
 ||181899.com^
 ||181bet.net^
 ||182211.com^
+||182qtt.com^
 ||184bets10.com^
 ||185627.com^
 ||185btt.com^
@@ -741,7 +742,6 @@
 ||1991bet.com^
 ||1993.bet^
 ||1993bet.com^
-||199422.com^
 ||19999y.com^
 ||1999bet.com^
 ||19banca.com^
@@ -1675,6 +1675,7 @@
 ||2p662meno.com^
 ||2pgvip.com^
 ||2pptiger.com^
+||static.2q.photos^
 ||2rainhaspg.com^
 ||2sloto123.xyz^
 ||2spinbetter.site^
@@ -1848,7 +1849,6 @@
 ||33win9.bet^
 ||33win9.com^
 ||33wowph.net^
-||34296.vip^
 ||343thvip.com^
 ||345-ninewin.com^
 ||34555.buzz^
@@ -1900,7 +1900,6 @@
 ||365-808.com^
 ||365488.com^
 ||365666.lol^
-||3656ii.net^
 ||365838.com^
 ||36592222.com^
 ||365brbet.com^
@@ -2020,7 +2019,6 @@
 ||41184747.com^
 ||412bets10.com^
 ||413bets10.com^
-||415593.com^
 ||41xbet.com^
 ||420555.com^
 ||422.com^
@@ -2257,7 +2255,6 @@
 ||5037777.com^
 ||5047777.com^
 ||506633.com^
-||508609.com^
 ||50crowns.com^
 ||50jili.com^
 ||50jiliph.com^
@@ -2300,13 +2297,11 @@
 ||53-betonred.com^
 ||530808.com^
 ||530bets10.com^
-||53190.vip^
 ||531bets10.com^
 ||532bets10.com^
 ||535302.com^
 ||535316.com^
 ||535360.com^
-||53608.org^
 ||53989.vip^
 ||53be.com^
 ||53phbet.vip^
@@ -2341,7 +2336,6 @@
 ||5557x.com^
 ||55584.bet^
 ||55599.club^
-||555aaa.net^
 ||555bets10.com^
 ||555club.vip^
 ||555i9.com^
@@ -2797,7 +2791,6 @@
 ||6765n.com^
 ||676684.com^
 ||67777.tv^
-||6781366.net^
 ||678jogo.cc^
 ||678jogo.co^
 ||678jogo.com^
@@ -2938,7 +2931,6 @@
 ||72nohu.com^
 ||73126.vip^
 ||73212.wang^
-||736296.com^
 ||7365002.app^
 ||7365vip7.com^
 ||7379.com^
@@ -3317,7 +3309,6 @@
 ||789betq.com^
 ||789bett.com^
 ||789betu.com^
-||789betvip.net^
 ||789betw.com^
 ||789br.bet^
 ||789casinogame.vip^
@@ -3534,7 +3525,6 @@
 ||8205-2.com^
 ||8205-6.com^
 ||8205566.com^
-||8205bbb.com^
 ||82267.net^
 ||8233.com^
 ||8233011.com^
@@ -4293,7 +4283,6 @@
 ||9464bet.com^
 ||948159.com^
 ||9494.com^
-||94958.org^
 ||9499696.com^
 ||9499858.com^
 ||9518121.com^
@@ -4413,7 +4402,6 @@
 ||999slots.com^
 ||999slots.games^
 ||999thang.com^
-||999wb999.com^
 ||99bet.co^
 ||99bet.com^
 ||99bet9.com^
@@ -4558,6 +4546,7 @@
 ||aapl7.com^
 ||aapl8.com^
 ||ab5252.com^
+||ab77.com^
 ||ab77700.com^
 ||ab77766.com^
 ||ab77788.com^
@@ -4637,6 +4626,8 @@
 ||absolutepoker.com^
 ||absolutist.com^
 ||abucantik.com^
+||abvn7.com^
+||abvn77.com^
 ||ac-fresh-casino.com^
 ||aca.bet^
 ||aca6.bet^
@@ -5228,11 +5219,11 @@
 ||apple4dwin11.com^
 ||apple4dwin13.com^
 ||apple4dwin6.com^
-||apple5.net^
 ||applebet365.com^
 ||applepaycasino.nz^
 ||applepaycasinos.ca^
 ||appletongreene.com^
+||applevns.com^
 ||appmkwin.com^
 ||appmkwin1.com^
 ||appn88.com^
@@ -5834,6 +5825,7 @@
 ||banca27.com^
 ||banca28.com^
 ||banca29.com^
+||banca2q.com^
 ||banca30.com^
 ||banca38.com^
 ||banca46.com^
@@ -5955,9 +5947,6 @@
 ||bayutoba.com^
 ||bazar3958.com^
 ||bb010723.com^
-||bb4961.com^
-||bb4966.com^
-||bb5654.com^
 ||bb7u.com^
 ||bbb777.vip^
 ||bbbgameapp.com^
@@ -7454,14 +7443,9 @@
 ||bmw4d-11.com^
 ||bmw4d-slot.com^
 ||bmw552211.com^
-||bmw589.net^
 ||bmw7700.com^
 ||bmw777jitu.com^
-||bmw802.net^
-||bmw808.net^
 ||bmw870.net^
-||bmw890.net^
-||bmw978.net^
 ||bmwbet88.com^
 ||bmx4d-jp.xyz^
 ||bmx4d-pro.com^
@@ -13267,10 +13251,8 @@
 ||envisioningcards.com^
 ||enzocasino.com^
 ||eo-sol-casino.com^
+||eon66.vip^
 ||eoption.com^
-||ep7236.com^
-||ep8355.com^
-||ep9755.com^
 ||epayments.com^
 ||epicbet.com^
 ||epiccasino.top^
@@ -13283,8 +13265,6 @@
 ||epictotowin.org^
 ||eptexasautocollision.com^
 ||equipe777.com^
-||er7255.com^
-||er7679.com^
 ||erabet88win.com^
 ||eratogel.me^
 ||erel-fresh-casino.com^
@@ -13298,6 +13278,7 @@
 ||erzsebet.org^
 ||es-casinority.com^
 ||es-casinos.com^
+||es-game.com^
 ||es68td7.com^
 ||esa-summit.com^
 ||esballeu.com^
@@ -13691,6 +13672,7 @@
 ||fast288.com^
 ||fast988.net^
 ||fastbet.com^
+||static.fastbs55.com^
 ||fastcasino.info^
 ||fastforexprofit.com^
 ||fastliga788.site^
@@ -15987,6 +15969,7 @@
 ||golden-game.info^
 ||golden-game.net^
 ||golden-game1.com^
+||client.golden-hoyeah.com^
 ||golden-tigercasino.com^
 ||goldenbet.com^
 ||goldencasinonews.com^
@@ -16138,6 +16121,7 @@
 ||google5fsx8k.vip^
 ||googlepaycasinos.nz^
 ||goopti.com^
+||client.goosegogo.cc^
 ||gopay3o3.com^
 ||gopay3o3.pro^
 ||gorhamdynastybuffet.com^
@@ -16386,6 +16370,7 @@
 ||gtrtoto1998.com^
 ||gtrtotojp16.com^
 ||gu1vn.net^
+||ir-sdk.guardease.com^
 ||guayteow.com^
 ||gubernurtotohary2.com^
 ||gudang4dseru.com^
@@ -17137,7 +17122,6 @@
 ||i9969.com^
 ||i9976.com^
 ||i99988.com^
-||i999888.asia^
 ||i99996.com^
 ||i99bets.com^
 ||i9bet.bio^
@@ -17618,6 +17602,11 @@
 ||info-1win-casino.ru^
 ||info-casino-bn.com^
 ||info-vavada-casino.com^
+||info122q.com^
+||info132q.com^
+||info152q.com^
+||info162q.com^
+||info172q.com^
 ||info18d.com^
 ||infobetting.com^
 ||infobookies.com^
@@ -19514,6 +19503,7 @@
 ||justicecasino.info^
 ||justspin.com^
 ||justspincasino.top^
+||juxveohinqvpgtw.com^
 ||jvlzzqlyf.com^
 ||jvspin.com^
 ||jvspin13135.top^
@@ -19650,7 +19640,6 @@
 ||k9win.in^
 ||k9win.news^
 ||k9win.run^
-||k9win9.com^
 ||k9winind.com^
 ||kaasino.com^
 ||kabarsultan.com^
@@ -20220,7 +20209,6 @@
 ||ku6111.net^
 ||vn2.ku6122.net^
 ||vn2.ku6123.net^
-||ku6131.net^
 ||vn.ku6132.net^
 ||ku6678.net^
 ||ku711-casino.click^
@@ -21354,6 +21342,7 @@
 ||ltt1728.com^
 ||ltt55.com^
 ||lu3g.it^
+||lu88.co^
 ||lucacasino888.com^
 ||lucasino.com^
 ||lucasinocente.com^
@@ -27890,7 +27879,6 @@
 ||sbs3366.com^
 ||sbt36ku.site^
 ||sbty0.com^
-||sbty22.com^
 ||sbty3.com^
 ||sbty9.com^
 ||sc-casino.com^
@@ -29330,6 +29318,8 @@
 ||sparkleslots.com^
 ||sparklingcasino.shop^
 ||spartanslots.com^
+||spb2.vip^
+||spb6.vip^
 ||spcasinos.com^
 ||specpage.com^
 ||spectrocoin.com^
@@ -31228,7 +31218,6 @@
 ||uea8th1.com^
 ||uea8th3.com^
 ||uea8th4.com^
-||uea8th8.com^
 ||uea8thai.com^
 ||uea8thb.com^
 ||ueabet.com^
@@ -32339,6 +32328,8 @@
 ||vt288bet.com^
 ||vt688.com^
 ||vtforeignpolicy.com^
+||vty01.com^
+||w9.vty68.net^
 ||vua2.club^
 ||authen.vua2-ldp.com^
 ||lobby.vua2-ldp.com^
@@ -32917,7 +32908,6 @@
 ||win79.live^
 ||win79.org^
 ||win79.pro^
-||win79.site^
 ||win79a.com^
 ||win79d.com^
 ||win7bitcasino.com^
@@ -33467,7 +33457,6 @@
 ||xiaojinsport.com^
 ||xifali.com^
 ||xilofonepg.bet^
-||xin66666.net^
 ||xin88.co^
 ||xin88.me^
 ||xin92.com^
@@ -33479,7 +33468,6 @@
 ||xkiosx.xyz^
 ||xkkbet.com^
 ||xkkbetapp.com^
-||xl18188.com^
 ||xlbet.com^
 ||xlxwin.com^
 ||xm8h5jk.info^
