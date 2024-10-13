@@ -5,18 +5,20 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Oct 2024 22:11 UTC
-# Version: 2024.1008.2211.31
+# Last modified: 12 Oct 2024 22:19 UTC
+# Version: 2024.1012.2219.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1507
+# Number of entries: 1592
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
+0.0.0.0 0ms.dev
 0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 dns.0rz.ing
 0.0.0.0 dns.0x55.net
 0.0.0.0 123000123.xyz
+0.0.0.0 dns.13evl.com
 0.0.0.0 cloud.198.games
 0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
@@ -45,6 +47,7 @@
 0.0.0.0 family.5ososea.com
 0.0.0.0 kids.5ososea.com
 0.0.0.0 jp.68360612.xyz
+0.0.0.0 dns.688447.xyz
 0.0.0.0 dns.7vpn.com
 0.0.0.0 dns.886886886.xyz
 0.0.0.0 dns.888654.xyz
@@ -192,11 +195,14 @@
 0.0.0.0 dns.arkbotech.com
 0.0.0.0 nsec.arnor.org
 0.0.0.0 dns.artikel10.org
+0.0.0.0 doh.asagiri.moe
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 dns.asterimoon.com
 0.0.0.0 dandelionsprout.asuscomm.com
 0.0.0.0 adguardhome.atakorah.com
+0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
+0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -238,6 +244,7 @@
 0.0.0.0 doh2.blahdns.com
 0.0.0.0 dot-de.blahdns.com
 0.0.0.0 dot-sg.blahdns.com
+0.0.0.0 dns.blaumer.dev
 0.0.0.0 us1.blissdns.net
 0.0.0.0 doh.blockerdns.com
 0.0.0.0 example.doh.blockerdns.com
@@ -248,6 +255,7 @@
 0.0.0.0 bluemood.me
 0.0.0.0 dns.bmwhocking.com
 0.0.0.0 dns.bobstrecansky.com
+0.0.0.0 d.bod.lol
 0.0.0.0 dns.bofh.in
 0.0.0.0 doh.boje8.me
 0.0.0.0 adguard.bonis.de
@@ -262,17 +270,21 @@
 0.0.0.0 dns.bravoc.one
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 doh.bt.com
+0.0.0.0 goose.buckyfan.net
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 dns.burgas.pro
 0.0.0.0 dns.busold.ws
 0.0.0.0 c-dns.com
 0.0.0.0 www.c-dns.com
+0.0.0.0 dns.cabbage.zone
+0.0.0.0 dns.cahlen.com
 0.0.0.0 callies-online.site
 0.0.0.0 doh.captnemo.in
 0.0.0.0 console.carestyle.org
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.carter.me
 0.0.0.0 dns.caspervk.net
+0.0.0.0 catchen121299.top
 0.0.0.0 alidns.cb1999.top
 0.0.0.0 alidns2.cb1999.top
 0.0.0.0 dns2.cbio.top
@@ -340,6 +352,7 @@
 0.0.0.0 dns.gayanalysing.co.uk
 0.0.0.0 dns.gi.co.id
 0.0.0.0 dns.neilzone.co.uk
+0.0.0.0 ns.nerdytechgeeks.co.za
 0.0.0.0 dns.oliviertv.co.za
 0.0.0.0 pooblet.co.za
 0.0.0.0 sbdns.co.in
@@ -364,6 +377,7 @@
 0.0.0.0 dns.east.comss.one
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
+0.0.0.0 dns.controld.com
 0.0.0.0 freedns.controld.com
 0.0.0.0 family.freedns.controld.com
 0.0.0.0 p0.freedns.controld.com
@@ -395,6 +409,7 @@
 0.0.0.0 dns.d4d.moe
 0.0.0.0 dns.d94.xyz
 0.0.0.0 dns.d96.info
+0.0.0.0 dns.daarrk.tech
 0.0.0.0 dns.dallinbryce.com
 0.0.0.0 dns.home.daniil.it
 0.0.0.0 adguard.dantynes.cyou
@@ -428,6 +443,8 @@
 0.0.0.0 doh.disconnect.app
 0.0.0.0 fdns1.dismail.de
 0.0.0.0 fdns2.dismail.de
+0.0.0.0 dltuykfgp.top
+0.0.0.0 www.dltuykfgp.top
 0.0.0.0 dns.expert
 0.0.0.0 dns.google
 0.0.0.0 dns.pub
@@ -440,6 +457,9 @@
 0.0.0.0 dns.dns-53.com
 0.0.0.0 dns.dns-53.uk
 0.0.0.0 dns.dns-53.us
+0.0.0.0 dns1.dns-ga.de
+0.0.0.0 dns2.dns-ga.de
+0.0.0.0 dns3.dns-ga.de
 0.0.0.0 doh.dns-ga.de
 0.0.0.0 secure-dns.dns-ga.de
 0.0.0.0 dns0.eu
@@ -553,6 +573,7 @@
 0.0.0.0 dns-dot.dnsforfamily.com
 0.0.0.0 dnsforge.de
 0.0.0.0 clean.dnsforge.de
+0.0.0.0 hard.dnsforge.de
 0.0.0.0 bahopir188.dnshome.de
 0.0.0.0 dns.dnshome.de
 0.0.0.0 dnslow.me
@@ -565,6 +586,7 @@
 0.0.0.0 sg1.dnswarden.com
 0.0.0.0 doh.us.dnswarden.com
 0.0.0.0 dnswebvsn.com
+0.0.0.0 do-39574-tr.xyz
 0.0.0.0 doh.beauty
 0.0.0.0 doh.buzz
 0.0.0.0 doh.li
@@ -628,6 +650,7 @@
 0.0.0.0 dns.enzonix.com
 0.0.0.0 bl.eq.md
 0.0.0.0 shield1.eranext.net
+0.0.0.0 doh.ersei.net
 0.0.0.0 dns.esnube.es
 0.0.0.0 eth.link
 0.0.0.0 opennic1.eth-services.de
@@ -636,6 +659,7 @@
 0.0.0.0 doh.excdn.eu.org
 0.0.0.0 dns.fullaccesstointernet.jp.eu.org
 0.0.0.0 dns.mayx.eu.org
+0.0.0.0 arashi.net.eu.org
 0.0.0.0 sukidayo.eu.org
 0.0.0.0 dns.extrawdw.net
 0.0.0.0 fra1.eyecay.xyz
@@ -648,6 +672,7 @@
 0.0.0.0 dns.falkenthal.org
 0.0.0.0 dnsvps.familiamv.net
 0.0.0.0 dns.fancyorg.at
+0.0.0.0 farewellkou.click
 0.0.0.0 dns.farshidhakimy.de
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
@@ -658,6 +683,8 @@
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 dot.ffmuc.net
 0.0.0.0 dns.ffnw.de
+0.0.0.0 dns.fgbk.net
+0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flightspace.net
@@ -689,11 +716,13 @@
 0.0.0.0 adg.geili.me
 0.0.0.0 geshido.vpn.geshido.ru
 0.0.0.0 getdnsapi.net
+0.0.0.0 gibblets.top
 0.0.0.0 adguard.maison.gifino.fr
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org
 0.0.0.0 h.gjrick.tw
 0.0.0.0 sdns22.gkonuralp.com
+0.0.0.0 glacius.top
 0.0.0.0 dns.glf.wtf
 0.0.0.0 dns.api.globus.org
 0.0.0.0 dns.api.preview.globus.org
@@ -712,6 +741,7 @@
 0.0.0.0 google-public-dns-b.google.com
 0.0.0.0 performance.gosami.xyz
 0.0.0.0 dot.libredns.gr.com
+0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
 0.0.0.0 dns2.guidocioni.it
@@ -724,6 +754,7 @@
 0.0.0.0 adguard.haneulo.com
 0.0.0.0 dns.hanmey.de
 0.0.0.0 hanniel.tech
+0.0.0.0 dns.hannielzhang.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud
 0.0.0.0 query.hdns.io
@@ -732,12 +763,15 @@
 0.0.0.0 dns.hellozhao.com
 0.0.0.0 dns.henek.ovh
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 hfgx.shop
 0.0.0.0 dns.hinet.net
 0.0.0.0 hitian.me
 0.0.0.0 pihole1.hoerli.net
 0.0.0.0 pihole2.hoerli.net
 0.0.0.0 pihole3.hoerli.net
 0.0.0.0 pihole4.hoerli.net
+0.0.0.0 home-server.store
+0.0.0.0 dns.hoody.com
 0.0.0.0 keithchung.hopto.org
 0.0.0.0 dns.horcrux.vip
 0.0.0.0 dns.internal.hosmatic.com
@@ -779,6 +813,7 @@
 0.0.0.0 dns.imchristian.de
 0.0.0.0 dns.immanuelschaffer.de
 0.0.0.0 doh.immerda.ch
+0.0.0.0 imperio.top
 0.0.0.0 dns1.in-berlin.de
 0.0.0.0 dns2.in-berlin.de
 0.0.0.0 dns.inclusioproject.com
@@ -793,6 +828,7 @@
 0.0.0.0 dns.interhub.cc
 0.0.0.0 ipoac.nl
 0.0.0.0 dns1.irumatech.com
+0.0.0.0 dns.is0mino.com
 0.0.0.0 dns.ishan.pw
 0.0.0.0 dns.islandnet.com
 0.0.0.0 diy.itsa.top
@@ -814,6 +850,7 @@
 0.0.0.0 green2.jnraptor.net
 0.0.0.0 dns.joey01245.nl
 0.0.0.0 adguard.johanliebert.top
+0.0.0.0 johneldenring.lol
 0.0.0.0 opencdn.jomodns.com
 0.0.0.0 adguard1.jsanagustin.net
 0.0.0.0 dns.jstockley.com
@@ -834,6 +871,7 @@
 0.0.0.0 dns.keke125.com
 0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
+0.0.0.0 chr.kepegawaiandju.id
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
 0.0.0.0 dns.kescher.at
@@ -848,16 +886,19 @@
 0.0.0.0 blog.kimiblock.top
 0.0.0.0 dns1.klcd.eu
 0.0.0.0 dns2.klcd.eu
+0.0.0.0 ko-18948-tr.xyz
 0.0.0.0 adguard.konikoni428.com
 0.0.0.0 doh.kooman.org
 0.0.0.0 korzhov.dev
 0.0.0.0 dns.kosan.moe
 0.0.0.0 dart.kpsn.org
+0.0.0.0 adblock.krctech.dev
 0.0.0.0 xray.krnl.eu
 0.0.0.0 adguard.kss.ovh
 0.0.0.0 dns.kugoapps.com
 0.0.0.0 dns.kukal.cz
 0.0.0.0 dns.kuuhaku.moe
+0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 dns.kxy.ink
 0.0.0.0 agh.kyusang.win
 0.0.0.0 dns.l337.site
@@ -875,6 +916,8 @@
 0.0.0.0 br.servers.legat.ml
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
+0.0.0.0 dns.lermer.nl
+0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
 0.0.0.0 dns2.lezainski.com
 0.0.0.0 dns.lgprk.com
@@ -882,6 +925,7 @@
 0.0.0.0 doh.libredns.gr
 0.0.0.0 dot.libredns.gr
 0.0.0.0 dns.lihj.me
+0.0.0.0 michelo.line.pm
 0.0.0.0 dns.linkr.ninja
 0.0.0.0 africadns1.liquidtelecom.net
 0.0.0.0 africadns2.liquidtelecom.net
@@ -906,8 +950,10 @@
 0.0.0.0 dns.maitrekuc.fr
 0.0.0.0 dns.mandre.dev
 0.0.0.0 dns.maolaohei.xyz
+0.0.0.0 maqgie.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 dns.marbledfennec.net
+0.0.0.0 multi.dns.marbledfennec.net
 0.0.0.0 ag.marschi.de
 0.0.0.0 adguard.marto.si
 0.0.0.0 doh.maskab.com
@@ -979,6 +1025,7 @@
 0.0.0.0 id.terra.my.id
 0.0.0.0 dns.velyn.my.id
 0.0.0.0 dns.vmath.my.id
+0.0.0.0 myatris.sbs
 0.0.0.0 adblock.mydns.network
 0.0.0.0 family.mydns.network
 0.0.0.0 freedom.mydns.network
@@ -1034,10 +1081,12 @@
 0.0.0.0 us-saj-w-p-1.nashkan.net
 0.0.0.0 dns.neeb.it
 0.0.0.0 nenam.eu
+0.0.0.0 adguard.neon0404.space
 0.0.0.0 dns.neowutran.ovh
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.infotek.net.id
 0.0.0.0 doh.max.net.id
+0.0.0.0 ns.net.kg
 0.0.0.0 dns.netvpn.net
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
@@ -1057,6 +1106,7 @@
 0.0.0.0 steering.nextdns.io
 0.0.0.0 dns.nguyendn.com
 0.0.0.0 dns.nhtsky.com
+0.0.0.0 d.niaox.com
 0.0.0.0 doh.nic.lv
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 odvr.nic.cz
@@ -1099,9 +1149,15 @@
 0.0.0.0 ns3.com
 0.0.0.0 ns3.cx
 0.0.0.0 ns3.link
+0.0.0.0 dnscache0.ns71.net
 0.0.0.0 dns.nullgate.net
+0.0.0.0 dns.numerus.com
+0.0.0.0 ns.nwps.fi
+0.0.0.0 qdns02.nymterm.com
 0.0.0.0 5g.o0o.re
 0.0.0.0 o1.lt
+0.0.0.0 ha.o51r15.com
+0.0.0.0 obscuro.top
 0.0.0.0 dns.odinpl.com
 0.0.0.0 dns.ofdoom.net
 0.0.0.0 adguard.oms-ctr.ru
@@ -1178,6 +1234,9 @@
 0.0.0.0 pluton.plan9-dns.com
 0.0.0.0 secure-dns.pleumkungz.com
 0.0.0.0 privacy.plumedns.com
+0.0.0.0 pm1239-bd.xyz
+0.0.0.0 pm7051-br.xyz
+0.0.0.0 pm9352-bd.xyz
 0.0.0.0 doh.port53.dk
 0.0.0.0 dns.porteii.com
 0.0.0.0 dns.aeiou.pp.ua
@@ -1192,6 +1251,14 @@
 0.0.0.0 dns.princex.net
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
+0.0.0.0 hungary.privacy-dns.pw
+0.0.0.0 india.privacy-dns.pw
+0.0.0.0 las-vegas.privacy-dns.pw
+0.0.0.0 luxembourg.privacy-dns.pw
+0.0.0.0 romania.privacy-dns.pw
+0.0.0.0 sweden.privacy-dns.pw
+0.0.0.0 switzerland.privacy-dns.pw
+0.0.0.0 united-arab-emirates.privacy-dns.pw
 0.0.0.0 dns.privado.ovh
 0.0.0.0 orpi.privado.ovh
 0.0.0.0 de.dns.privex.io
@@ -1230,6 +1297,7 @@
 0.0.0.0 tiger.dns.qwer.pw
 0.0.0.0 resolver.r0cket.net
 0.0.0.0 r1bnc.com
+0.0.0.0 resolve2.r9x.cc
 0.0.0.0 dns.rabbitdns.org
 0.0.0.0 family.rabbitdns.org
 0.0.0.0 security.rabbitdns.org
@@ -1251,6 +1319,7 @@
 0.0.0.0 basic.rethinkdns.com
 0.0.0.0 max.rethinkdns.com
 0.0.0.0 sky.rethinkdns.com
+0.0.0.0 revelio.top
 0.0.0.0 doh.rezhajul.io
 0.0.0.0 resolver.rferee.dev
 0.0.0.0 ricko.is
@@ -1349,6 +1418,7 @@
 0.0.0.0 dns.startupstack.tech
 0.0.0.0 dns.stevenz.net
 0.0.0.0 dns.stirringphoto.com
+0.0.0.0 dns.stormycloud.org
 0.0.0.0 dns.strassmair.org
 0.0.0.0 doh.suche.org
 0.0.0.0 local.sufly.top
@@ -1357,6 +1427,7 @@
 0.0.0.0 sunnygyl.com
 0.0.0.0 doh.sunoaki.net
 0.0.0.0 dns.superstefan.win
+0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
 0.0.0.0 dns.swin.pro
 0.0.0.0 switch.ch
@@ -1365,12 +1436,15 @@
 0.0.0.0 ibksturm.synology.me
 0.0.0.0 ihctw.synology.me
 0.0.0.0 doh.syshero.org
+0.0.0.0 dns.szpadel.ovh
 0.0.0.0 dns.t53.de
 0.0.0.0 tecdrive.site
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 vpn.technicule.info
 0.0.0.0 doh.technochat.in
+0.0.0.0 dns.technologycage.com
 0.0.0.0 dns.technostriker.com
+0.0.0.0 rx.techomespace.com
 0.0.0.0 dns.telekom.de
 0.0.0.0 iana.tenta.io
 0.0.0.0 opennic.tenta.io
@@ -1387,6 +1461,7 @@
 0.0.0.0 dns.theres.one
 0.0.0.0 dns.therifleman.name
 0.0.0.0 blocker.thethorsens.org
+0.0.0.0 doh.thio.me
 0.0.0.0 doh.tiar.app
 0.0.0.0 dot.tiar.app
 0.0.0.0 jp.tiar.app
@@ -1395,6 +1470,7 @@
 0.0.0.0 dns.tierradeayala.com
 0.0.0.0 tigrons.ru
 0.0.0.0 timmes.nl
+0.0.0.0 adb.timnichollsphotography.com
 0.0.0.0 dns.tipsy.coffee
 0.0.0.0 dns.tls-data.de
 0.0.0.0 tlz.asia
@@ -1439,8 +1515,12 @@
 0.0.0.0 dns.koala.us.to
 0.0.0.0 nightlymoon.us.kg
 0.0.0.0 luna-is.so-gorgeo.us.kg
+0.0.0.0 mita-is.so-gorgeo.us.kg
 0.0.0.0 nana-is.so-gorgeo.us.kg
+0.0.0.0 nindy-is.so-gorgeo.us.kg
+0.0.0.0 nova-is.so-gorgeo.us.kg
 0.0.0.0 tetty-is.so-gorgeo.us.kg
+0.0.0.0 yussy-is.so-gorgeo.us.kg
 0.0.0.0 adfree.usableprivacy.net
 0.0.0.0 dns.vaioswolke.xyz
 0.0.0.0 doh.valscosmos.com
@@ -1475,6 +1555,8 @@
 0.0.0.0 adguard.wirimij.nl
 0.0.0.0 clearweb.woodbridge.club
 0.0.0.0 home.wriedts.de
+0.0.0.0 ns2.wuyouss.com
+0.0.0.0 ns3.wuyouss.com
 0.0.0.0 wyx.cloud
 0.0.0.0 adb-home.xaoimoon.fr
 0.0.0.0 doh.xcom.pro
@@ -1482,6 +1564,7 @@
 0.0.0.0 doh.xfinity.com
 0.0.0.0 dot.xfinity.com
 0.0.0.0 doh2.gslb2.xfinity.com
+0.0.0.0 xholgm.top
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 dns.xlion.tw
 0.0.0.0 xn--durhre-yxa.de
@@ -1501,6 +1584,7 @@
 0.0.0.0 dns.yatima.tv
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
+0.0.0.0 net01.youcef.io
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 yuvelirtut.website
@@ -1514,6 +1598,7 @@
 0.0.0.0 doh.zephyrus.id
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 dns.zfsystem.tech
+0.0.0.0 doh.zknt.org
 0.0.0.0 zougloub.eu
 0.0.0.0 a.zpn.me
 0.0.0.0 dns.zzuhacker.cn

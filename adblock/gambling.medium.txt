@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 11 Oct 2024 22:41 UTC
-! Version: 2024.1011.2241.45
+! Last modified: 12 Oct 2024 22:48 UTC
+! Version: 2024.1012.2248.42
 ! Syntax: AdBlock
-! Number of entries: 162643
+! Number of entries: 162671
 !
 ||0-bet.com^
 ||0-betsixty.com^
@@ -3878,6 +3878,7 @@
 ||100banca.com^
 ||100bestcasinosites.com^
 ||100casino.net^
+||100casino.site^
 ||100casinopicks.com^
 ||100krgratiscasino.com^
 ||100loto.ru^
@@ -7441,6 +7442,7 @@
 ||138976c.com^
 ||138976d.com^
 ||1389ky.com^
+||138alien.asia^
 ||138alienslot.net^
 ||138boba.world^
 ||138hgv.com^
@@ -12283,6 +12285,7 @@
 ||1pajak4d.info^
 ||1pal8one88i88.com^
 ||1parimatchwin.com^
+||1partners.link^
 ||1pgyes.click^
 ||1ph777a.cc^
 ||1pian6w.com^
@@ -26291,7 +26294,6 @@
 ||36596666.net^
 ||36597777.com^
 ||365979.com^
-||3659a.com^
 ||3659a.vip^
 ||3659a.win^
 ||3659aa.com^
@@ -33764,6 +33766,7 @@
 ||4casinobonus.com^
 ||4cdtko0eko.com^
 ||4clockfortune.com^
+||4crownscasino1.com^
 ||4df.bet^
 ||4dwi.online^
 ||4dwla.click^
@@ -44317,6 +44320,7 @@
 ||6686v2.app^
 ||6686v3.app^
 ||6686v3.com^
+||6686v820.com^
 ||6686v930.com^
 ||6686vip10.com^
 ||6686vip64.app^
@@ -44340,11 +44344,16 @@
 ||6686vn101.com^
 ||6686vn102.com^
 ||6686vn103.com^
+||6686vn105.com^
 ||6686vn11.com^
+||6686vn116.com^
 ||6686vn12.com^
+||6686vn120.com^
+||6686vn123.com^
 ||6686vn13.com^
 ||6686vn14.com^
 ||6686vn142.com^
+||6686vn146.com^
 ||6686vn15.com^
 ||6686vn150.com^
 ||6686vn16.com^
@@ -52226,6 +52235,7 @@
 ||77betvn.top^
 ||77betzz.com^
 ||77brazil.com^
+||77brl.com^
 ||77bro.com^
 ||77dabao.com^
 ||77f02.com^
@@ -83200,6 +83210,7 @@
 ||casibom575.com^
 ||casibom589.com^
 ||casibom597.com^
+||casibom780.com^
 ||casilando.com^
 ||casilime.com^
 ||casilimecasino.top^
@@ -85039,6 +85050,7 @@
 ||casinojet.top^
 ||casinojetonline.kz^
 ||casinojinx.uk^
+||casinojka.ru^
 ||casinojoey.com^
 ||casinojoka.com^
 ||casinojoka.info^
@@ -89293,6 +89305,7 @@
 ||cpt855.com^
 ||cpt8899.com^
 ||cpt988.net^
+||cpvip1918.com^
 ||cpw11.vip^
 ||cpw15.vip^
 ||cpw22.vip^
@@ -92248,6 +92261,7 @@
 ||drcasinosite.com^
 ||dream11.com^
 ||dream88wfun.com^
+||dream99.info^
 ||dreamcasino.info^
 ||dreamjackpot.com^
 ||dreamlandcasino.com^
@@ -94053,6 +94067,8 @@
 ||europeangaming.eu^
 ||europeanpokertour.com^
 ||europeen777.com^
+||europefortune-fast.com^
+||europefortune-send.com^
 ||europoker.com^
 ||euroslots.com^
 ||eurosportbet.fr^
@@ -96950,6 +96966,7 @@
 ||fortune-winners.net^
 ||fortune138.asia^
 ||fortune777pg.com^
+||fortuneadvert.com^
 ||fortunebacansports.online^
 ||fortunebacansports.store^
 ||fortunecity.it^
@@ -100217,6 +100234,7 @@
 ||geng088gg345ge.com^
 ||geng777-dua.com^
 ||geng777-tiga.com^
+||genieplay287394.com^
 ||genktriadtgl1.online^
 ||genktriadtgl1.site^
 ||genktriadtgl2.online^
@@ -108221,6 +108239,7 @@
 ||ito5db.com^
 ||ito5dc.com^
 ||ito5dd.com^
+||itokvip.com^
 ||itonlinecasino.com^
 ||itsbways.com^
 ||itsfogo.com^
@@ -111874,6 +111893,7 @@
 ||jojobet.com^
 ||jojobets870.com^
 ||jojodios.com^
+||jojoy.io^
 ||jokabet.com^
 ||jokabet777.com^
 ||jokabetgo.com^
@@ -117295,6 +117315,7 @@
 ||kryptocasinos.com^
 ||kryptosino.com^
 ||krzusffvkmcpvdrn.app^
+||ks.bet^
 ||ks016.com^
 ||ks0188.com^
 ||ks038.com^
@@ -117453,6 +117474,7 @@
 ||ks8777.com^
 ||ks8778.com^
 ||ks8779.com^
+||ks88.bet^
 ||ks8805.com^
 ||ks8819.com^
 ||ks8820.com^
@@ -134320,9 +134342,12 @@
 ||qh988.com^
 ||qh989.com^
 ||qh99.co^
+||qh99.com^
 ||vn.qh995.com^
 ||qh99a.com^
 ||qh99e.com^
+||be-source.qhcpzupg.app^
+||fe-source.qhcpzupg.app^
 ||qhg0088s.com^
 ||qhgoufang.com^
 ||qhnmykjnew.com^
@@ -142607,6 +142632,7 @@
 ||spinsttt.net^
 ||spinstwo.com^
 ||spinsup-casino.com^
+||spinsup1.com^
 ||spinsupcasino.com^
 ||spinsupcasinos.com^
 ||spinsuu.xyz^
@@ -146462,6 +146488,7 @@
 ||tigre7.net^
 ||tigre8.cc^
 ||tigre8.net^
+||tikicasino3.com^
 ||tikislotx10000.site^
 ||tikitaka.autos^
 ||tikitaka.boats^
@@ -154637,6 +154664,7 @@
 ||wff148.com^
 ||wffpvh.com^
 ||wfun88.com^
+||wg.casino^
 ||wg777.org^
 ||wg77win.xyz^
 ||web.wg888.shop^
