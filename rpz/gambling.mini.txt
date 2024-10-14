@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1728833460 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1728858600 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Oct 2024 15:31 UTC
-; Version: 2024.1013.1531.07
+; Last modified: 13 Oct 2024 22:30 UTC
+; Version: 2024.1013.2230.50
 ; Syntax: RPZ
-; Number of entries: 67772
+; Number of entries: 67788
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -11715,6 +11715,8 @@ ab5252.com CNAME .
 *.ab5252.com CNAME .
 ab77.com CNAME .
 *.ab77.com CNAME .
+ab771.com CNAME .
+*.ab771.com CNAME .
 ab77700.com CNAME .
 *.ab77700.com CNAME .
 ab77766.com CNAME .
@@ -16135,6 +16137,8 @@ casibom589.com CNAME .
 *.casibom589.com CNAME .
 casibom597.com CNAME .
 *.casibom597.com CNAME .
+casibom780.com CNAME .
+*.casibom780.com CNAME .
 casilando.com CNAME .
 *.casilando.com CNAME .
 casilime.com CNAME .
@@ -20795,6 +20799,8 @@ fastbet.com CNAME .
 *.fastbet.com CNAME .
 static.fastbs55.com CNAME .
 *.static.fastbs55.com CNAME .
+static.fastbs66.com CNAME .
+*.static.fastbs66.com CNAME .
 fastforexprofit.com CNAME .
 *.fastforexprofit.com CNAME .
 fastloto-casino.com CNAME .
@@ -24233,6 +24239,8 @@ hi88vip9.com CNAME .
 *.hi88vip9.com CNAME .
 hi928.com CNAME .
 *.hi928.com CNAME .
+hi948.com CNAME .
+*.hi948.com CNAME .
 hi955.com CNAME .
 *.hi955.com CNAME .
 hi966.com CNAME .
@@ -33659,6 +33667,8 @@ promocode-casino.com CNAME .
 *.promocode-casino.com CNAME .
 promomenang.com CNAME .
 *.promomenang.com CNAME .
+promosi365.com CNAME .
+*.promosi365.com CNAME .
 promotioncoinplay.com CNAME .
 *.promotioncoinplay.com CNAME .
 pronecasino.com CNAME .
@@ -38291,6 +38301,8 @@ tg7779.com CNAME .
 *.tg7779.com CNAME .
 tg777g.com CNAME .
 *.tg777g.com CNAME .
+api-client.tgcgame2024.com CNAME .
+*.api-client.tgcgame2024.com CNAME .
 th-1x.com CNAME .
 *.th-1x.com CNAME .
 th-1xbet.com CNAME .
@@ -41505,6 +41517,8 @@ wsocdd.com CNAME .
 *.wsocdd.com CNAME .
 wstar77.com CNAME .
 *.wstar77.com CNAME .
+iapi.wtapaakmv.com CNAME .
+*.iapi.wtapaakmv.com CNAME .
 wtcugf.com CNAME .
 *.wtcugf.com CNAME .
 wtfskins.com CNAME .
@@ -64785,6 +64799,8 @@ taka3.vip CNAME .
 *.taka3.vip CNAME .
 telursambal.vip CNAME .
 *.telursambal.vip CNAME .
+tfvip88.vip CNAME .
+*.tfvip88.vip CNAME .
 tha2536.vip CNAME .
 *.tha2536.vip CNAME .
 thabet.vip CNAME .

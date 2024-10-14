@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Oct 2024 15:42 UTC
-# Version: 2024.1013.1542.11
+# Last modified: 13 Oct 2024 22:41 UTC
+# Version: 2024.1013.2241.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 163707
+# Number of entries: 163718
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -38219,6 +38219,7 @@ local=/5673k.com/
 local=/567402aa.com/
 local=/567403.com/
 local=/567428.com/
+local=/v.567440.com/
 local=/5674658.com/
 local=/5674v.com/
 local=/5674x.com/
@@ -69167,6 +69168,7 @@ local=/aayy19.com/
 local=/aaz01a1.com/
 local=/aaz21.com/
 local=/aaz34.com/
+local=/ab-77.com/
 local=/ab00.vip/
 local=/ab0621.com/
 local=/ab197.sbs/
@@ -69178,7 +69180,7 @@ local=/ab5252.com/
 local=/ab68.org/
 local=/ab6943.com/
 local=/ab77.com/
-local=/chat.ab771.com/
+local=/ab771.com/
 local=/ab77700.com/
 local=/ab77766.com/
 local=/ab77788.com/
@@ -72872,6 +72874,7 @@ local=/b1967.com/
 local=/b1978.com/
 local=/b19789.com/
 local=/b1994.com/
+local=/jxpicture.b1k3q6.com/
 local=/b1v1h.com/
 local=/b1w31.com/
 local=/b1y56.com/
@@ -80038,6 +80041,7 @@ local=/bongc54.com/
 local=/bongda101.net/
 local=/bongda183.com/
 local=/bongda2q.cc/
+local=/bongda2q.life/
 local=/bongda38.com/
 local=/bongda4k.net/
 local=/bongda555.com/
@@ -95360,6 +95364,7 @@ local=/fast988.net/
 local=/fastbet.com/
 local=/special-activity-h5.fastbs111.com/
 local=/static.fastbs55.com/
+local=/static.fastbs66.com/
 local=/api.fastbsv.com/
 local=/fastcasino.info/
 local=/fastcasinopoker.online/
@@ -113097,6 +113102,7 @@ local=/jsbn004.com/
 local=/jsbn005.com/
 local=/jsbn006.com/
 local=/jsbn015.com/
+local=/web01.jsbn016.com/
 local=/jsbn018.com/
 local=/jsbn019.com/
 local=/jsboxian.com/
@@ -135070,6 +135076,7 @@ local=/quatanthu.online/
 local=/quatanthu.xyz/
 local=/quatrocasino.com/
 local=/quatrocasino.top/
+local=/quayhu2q.club/
 local=/ws-tx-g8.quayso.tv/
 local=/quayso88.com/
 local=/quaysogame.com/
@@ -139464,6 +139471,7 @@ local=/sbyz97.com/
 local=/sbzhejiang.com/
 local=/sc-casino.com/
 local=/sc0621.com/
+local=/sc2.sc/
 local=/sc351.org/
 local=/sc3866.vip/
 local=/sc9xci.com/
@@ -146243,6 +146251,7 @@ local=/tfclub88.com/
 local=/tfgiaitri.com/
 local=/tfpro88.com/
 local=/tfpromo88.com/
+local=/tfvip88.vip/
 local=/tg.bet/
 local=/tg.casino/
 local=/tg15888.com/
@@ -157147,6 +157156,7 @@ local=/wt3569.com/
 local=/wt3586.com/
 local=/wt889mntpbos.shop/
 local=/wt9768.com/
+local=/iapi.wtapaakmv.com/
 local=/wtcugf.com/
 local=/wtfskins.com/
 local=/wtobet.beauty/
@@ -157986,6 +157996,7 @@ local=/wz98.vip/
 local=/wzanneng.com/
 local=/wzmlex87.com/
 local=/wzq8.net/
+local=/x.cc/
 local=/x-casino.casino/
 local=/x-casino.org/
 local=/x-casino-official225.win/

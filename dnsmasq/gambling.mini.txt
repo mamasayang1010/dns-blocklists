@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Oct 2024 15:31 UTC
-# Version: 2024.1013.1531.07
+# Last modified: 13 Oct 2024 22:30 UTC
+# Version: 2024.1013.2230.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 33886
+# Number of entries: 33894
 #
 local=/0-betsixty.com/
 local=/0-casino.info/
@@ -4546,6 +4546,7 @@ local=/aapl7.com/
 local=/aapl8.com/
 local=/ab5252.com/
 local=/ab77.com/
+local=/ab771.com/
 local=/ab77700.com/
 local=/ab77766.com/
 local=/ab77788.com/
@@ -8307,6 +8308,7 @@ local=/casibom558.com/
 local=/casibom575.com/
 local=/casibom589.com/
 local=/casibom597.com/
+local=/casibom780.com/
 local=/casilando.com/
 local=/casilime.com/
 local=/casilimecasino.top/
@@ -13672,6 +13674,7 @@ local=/fast288.com/
 local=/fast988.net/
 local=/fastbet.com/
 local=/static.fastbs55.com/
+local=/static.fastbs66.com/
 local=/fastcasino.info/
 local=/fastforexprofit.com/
 local=/fastliga788.site/
@@ -16760,6 +16763,7 @@ local=/hi88vip6.com/
 local=/hi88vip8.com/
 local=/hi88vip9.com/
 local=/hi928.com/
+local=/hi948.com/
 local=/hi955.com/
 local=/hi966.com/
 local=/hialeahparkcasino.com/
@@ -26112,6 +26116,7 @@ local=/proline.ca/
 local=/promcasino.shop/
 local=/promocode-casino.com/
 local=/promomenang.com/
+local=/promosi365.com/
 local=/promotioncoinplay.com/
 local=/pronecasino.com/
 local=/pronosoft.com/
@@ -30335,6 +30340,7 @@ local=/tf88v.com/
 local=/tf88v.net/
 local=/tf88za.com/
 local=/tfclub88.com/
+local=/tfvip88.vip/
 local=/tg.bet/
 local=/tg.casino/
 local=/tg458.com/
@@ -30358,6 +30364,7 @@ local=/tg7779.com/
 local=/tg777g.com/
 local=/tg88alt.store/
 local=/tg88win.us/
+local=/api-client.tgcgame2024.com/
 local=/tghuidfh2n.cc/
 local=/tglwika.shop/
 local=/gtm-sg-6l13pqg5201.tgtest.site/
@@ -33312,6 +33319,7 @@ local=/wsocdd.com/
 local=/wsopastiwin88.shop/
 local=/wsopga.me/
 local=/wstar77.com/
+local=/iapi.wtapaakmv.com/
 local=/wtcugf.com/
 local=/wtfskins.com/
 local=/wtobet.beer/

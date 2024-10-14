@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1728684900 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1728857700 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 11 Oct 2024 22:15 UTC
-; Version: 2024.1011.2215.53
+; Last modified: 13 Oct 2024 22:15 UTC
+; Version: 2024.1013.2215.16
 ; Syntax: RPZ
-; Number of entries: 19792
+; Number of entries: 19796
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4151,6 +4151,8 @@ futurenet-bd.com CNAME .
 *.futurenet-bd.com CNAME .
 fzmovies-series.com CNAME .
 *.fzmovies-series.com CNAME .
+yuptracker.gaijinent.com CNAME .
+*.yuptracker.gaijinent.com CNAME .
 game-2u.com CNAME .
 *.game-2u.com CNAME .
 game3rb.com CNAME .
@@ -8123,6 +8125,8 @@ shellife.eu CNAME .
 *.shellife.eu CNAME .
 sktorrent.eu CNAME .
 *.sktorrent.eu CNAME .
+st-tracker.eu CNAME .
+*.st-tracker.eu CNAME .
 streamingcommunity.eu CNAME .
 *.streamingcommunity.eu CNAME .
 streamking.eu CNAME .
