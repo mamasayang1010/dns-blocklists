@@ -60048,6 +60048,7 @@ lotterystars.online
 lotterystars.site
 lotterystars.top
 lotterystars.world
+lotterywest.wa.gov.au
 lotto247.com
 lottogo.com
 lottogo.com.au
