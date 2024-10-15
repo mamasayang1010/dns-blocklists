@@ -1,0 +1,28 @@
+name: Release
+
+env:
+  INCREMENTAL_TYPE: minor
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+	if: contains(github.event.head_commit.message, 'release')
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate Release
+        uses: ADORSYS-GIS/release_generator@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          add_description: "Release of the last full build."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          REPO_NAME: ${{ secrets.REPO_NAME }}
+          INCREMENTAL_TYPE: ${{ env.INCREMENTAL_TYPE }}
