@@ -24,7 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: hagezi
           REPO_NAME: dns-blocklists
-          INCREMENT_TYPE: ${{ env.INCREMENTAL_TYPE }}
+          INCREMENT_TYPE: ${{ env.INCREMENT_TYPE }}
   releasecleanup:
     name: ReleaseCleanup
     runs-on: ubuntu-latest
@@ -35,6 +35,7 @@ jobs:
         uses: Nats-ji/delete-old-releases@v1.0.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          keep-count: 3
           keep-old-minor-releases: false
           remove-tags: true
     needs: release
