@@ -1,5 +1,8 @@
 name: Release
 
+env:
+  INCREMENTAL_TYPE: major
+
 on:
   push:
     branches:
@@ -17,9 +20,8 @@ jobs:
         uses: ADORSYS-GIS/release_generator@v1.0.7
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          add_description: "Release of the last full build."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: hagezi
-          REPO_NAME: dns-blocklists
-          INCREMENTAL_TYPE: minor
+          REPO_NAME: ${{ secrets.REPO_NAME }}
+          INCREMENTAL_TYPE: ${{ env.INCREMENTAL_TYPE }}
