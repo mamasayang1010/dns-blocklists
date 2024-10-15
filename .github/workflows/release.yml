@@ -23,5 +23,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: hagezi
-          REPO_NAME: ${{ secrets.REPO_NAME }}
+          REPO_NAME: dns-blocklists
           INCREMENTAL_TYPE: ${{ env.INCREMENTAL_TYPE }}
+  releasecleanup:
+    name: ReleaseCleanup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Cleanup releases and tags
+        uses: Nats-ji/delete-old-releases@v1.0.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          remove-tags: true
+    needs: release
+  workflowcleanup:
+    name: WorkflowCleanup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cleanup workflow runs
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          retain_days: 1
+          keep_minimum_runs: 1
+    needs: [release, releasecleanup]
