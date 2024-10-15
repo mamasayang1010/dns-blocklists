@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Oct 2024 22:42 UTC
-# Version: 2024.1014.2242.41
+# Last modified: 15 Oct 2024 15:34 UTC
+# Version: 2024.1015.1534.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 163762
+# Number of entries: 163772
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -44187,6 +44187,7 @@ local=/6686a4.app/
 local=/6686a4.vet/
 local=/6686a5.app/
 local=/6686a5.com/
+local=/6686a58.com/
 local=/6686a6.app/
 local=/6686a6.com/
 local=/6686a7.app/
@@ -69571,6 +69572,7 @@ local=/admiralaff2.com/
 local=/admiralbet.com/
 local=/admiralbet.de/
 local=/admiralbet.es/
+local=/admiralbet.it/
 local=/admiralcasino.com/
 local=/admiralcasino.email/
 local=/admiralcasino.space/
@@ -70997,6 +70999,7 @@ local=/anjay88.com/
 local=/anjayslot.net/
 local=/anjcasino.com/
 local=/anjingkawangua.com/
+local=/anjingl.com/
 local=/ank89koi.xyz/
 local=/ankgameboard.store/
 local=/anksvips.store/
@@ -77305,6 +77308,7 @@ local=/betify.pro/
 local=/betify-casino.com/
 local=/betify-casino.fr/
 local=/betify-officiel.fr/
+local=/betify1.com/
 local=/betify1.fr/
 local=/betifycasino.com/
 local=/betifycasino.fr/
@@ -84450,6 +84454,7 @@ local=/casinoaction.com/
 local=/casinoaction.dk/
 local=/casinoaction.top/
 local=/casinoaction360.com/
+local=/casinoadmiral.cz/
 local=/casinoadmiral.lt/
 local=/casinoadmiral.nl/
 local=/casinoadmiral.online/
@@ -125041,6 +125046,7 @@ local=/mrpacho1.com/
 local=/mrplay.com/
 local=/mrplaycasino.online/
 local=/mrpoker.com/
+local=/mrpunter1.com/
 local=/mrq.com/
 local=/mrq-casino-uk.com/
 local=/mrrex.com/
@@ -128534,6 +128540,7 @@ local=/olev7.com/
 local=/oleviet777.com/
 local=/olevina.com/
 local=/olevn777.com/
+local=/oleybet.com/
 local=/olg.ca/
 local=/olgallforhere.ca/
 local=/olggroupplay.ca/
@@ -133692,6 +133699,7 @@ local=/pope40.cc/
 local=/pope6.cc/
 local=/pope8.cc/
 local=/pope9.cc/
+local=/poplottery.com/
 local=/popmantap4d.pro/
 local=/popo.bet/
 local=/popo3321.com/
@@ -142680,6 +142688,7 @@ local=/spilleautomaten.dk/
 local=/spillehallen.dk/
 local=/spilnu.dk/
 local=/spiludenomrofus.casino/
+local=/spin.ro/
 local=/spin-casino.me/
 local=/spin-casino.space/
 local=/spin-casino.top/
@@ -146762,6 +146771,7 @@ local=/threeangkasa168.xyz/
 local=/threeriverscasino.com/
 local=/thrills.com/
 local=/thrillscasino.top/
+local=/thrillzz.com/
 local=/thronentertainment.com/
 local=/thrp588.com/
 local=/thsports.asia/

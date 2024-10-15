@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Oct 2024 22:32 UTC
-# Version: 2024.1014.2232.19
+# Last modified: 15 Oct 2024 15:24 UTC
+# Version: 2024.1015.1524.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 33867
+# Number of entries: 33812
 #
 *.0-betsixty.com
 *.0-casino.info
@@ -136,7 +136,6 @@
 *.080nohu.com
 *.080vs.com
 *.085159.com
-*.0857a.com
 *.088nohu.com
 *.08946.com
 *.089808.cn
@@ -527,7 +526,6 @@
 *.1418-sol-casino.com
 *.142255.com
 *.1427joycasino.com
-*.142846.com
 *.1432joycasino.com
 *.1433joycasino.com
 *.1434joycasino.ru
@@ -1375,10 +1373,7 @@
 *.2108888.com
 *.2121.com
 *.2132.com
-*.213290.com
-*.213804.com
 *.213808.app
-*.213830.com
 *.215732.com
 *.216wowph.com
 *.21828.vip
@@ -1631,7 +1626,6 @@
 *.29501.xyz
 *.2951122.com
 *.298882.com
-*.2998a.com
 *.29999y.com
 *.29hi88.com
 *.29i9.com
@@ -1886,7 +1880,6 @@
 *.361zt0.vip
 *.362.bet
 *.3622.com
-*.3625a.com
 *.365.rs
 *.365-288.com
 *.365-808.com
@@ -2168,14 +2161,12 @@
 *.4626688.com
 *.462app66.com
 *.4647.com
-*.46521.vip
 *.46531.buzz
 *.466872.com
 *.466jilipark.cc
 *.46910.net
 *.46merryph.vip
 *.4747234.com
-*.4765517.com
 *.4765959.com
 *.4787938.com
 *.47bet.com
@@ -2257,18 +2248,6 @@
 *.511lovejili.cc
 *.512xiaojin.com
 *.5132.com
-*.513201.com
-*.513202.com
-*.513203.com
-*.513204.com
-*.513205.com
-*.513206.com
-*.513207.com
-*.513209.com
-*.513220.com
-*.513240.com
-*.513242.com
-*.513243.com
 *.513366.com
 *.5151.com
 *.515789.cc
@@ -2281,7 +2260,6 @@
 *.523betapp.site
 *.52507.net
 *.525203.com
-*.52520524.com
 *.52735.xyz
 *.528999.com
 *.52ae888.com
@@ -2364,7 +2342,6 @@
 *.55bmwe.com
 *.55brokers.com
 *.55dabao.com
-*.55hgvip.com
 *.55i9bet.com
 *.55kf.bet
 *.55kfbet.bet
@@ -2388,7 +2365,6 @@
 *.560bet.com
 *.5610.com
 *.56211.com
-*.5621t.com
 *.562bets10.com
 *.564763.com
 *.564bets10.com
@@ -2431,7 +2407,6 @@
 *.5888567.com
 *.588bets10.com
 *.588kjw.com
-*.588qp.vip
 *.589678.org
 *.589679.com
 *.589679.org
@@ -2544,9 +2519,7 @@
 *.60game6.com
 *.60yr.com
 *.6103.com
-*.610722.com
 *.611666i.com
-*.613264.com
 *.613629.com
 *.613651.com
 *.613698.com
@@ -2595,7 +2568,6 @@
 *.636admiral-xxx.com
 *.63ffecavd08dl1xi.app
 *.6433.tw
-*.6446t.com
 *.645lotto.net
 *.646wns.com
 *.64good88.com
@@ -2613,7 +2585,6 @@
 *.660718.com
 *.661124.com
 *.6623.bz
-*.66233.wang
 *.6623a.com
 *.6623b.com
 *.6623c.com
@@ -2771,7 +2742,6 @@
 *.66xun.com
 *.6729.com
 *.6731.com
-*.673105.com
 *.6732.com
 *.673bets10.com
 *.6765n.com
@@ -2790,7 +2760,6 @@
 *.687999.com
 *.6882.com
 *.689777.com
-*.68989.vip
 *.68banca.com
 *.68gamebai.social
 *.68gamebai.tel
@@ -2808,7 +2777,6 @@
 *.images.6929183.com
 *.694141.com
 *.6957.com
-*.695996.com
 *.69692277.com
 *.69779.net
 *.697win.com
@@ -2899,7 +2867,6 @@
 *.703966.com
 *.705966.com
 *.708212.com
-*.708466.com
 *.708822.com
 *.711.nl
 *.711casino.net
@@ -2916,9 +2883,7 @@
 *.729900.com
 *.72nohu.com
 *.73126.vip
-*.73212.wang
 *.7365002.app
-*.7365vip7.com
 *.7379.com
 *.743grandbetting.com
 *.744grandbetting.com
@@ -2968,7 +2933,6 @@
 *.77127t.com
 *.771512.com
 *.771562.com
-*.771639.com
 *.771koi.com
 *.77270.com
 *.7733377.com
@@ -3175,7 +3139,6 @@
 *.7810078.com
 *.7811f.com
 *.78132.wang
-*.78212.vip
 *.7830078.com
 *.783123.xyz
 *.7842.com
@@ -3429,7 +3392,6 @@
 *.7kcasino-online.ru
 *.7kcasinomobile.ru
 *.7king88.com
-*.7lt.net
 *.7m.hk
 *.7m7.com
 *.7m7app.com
@@ -3488,7 +3450,6 @@
 *.805koin.org
 *.806633.com
 *.8067777.com
-*.80693e.com
 *.807admiral-xxx.com
 *.8090hg.com
 *.8099.com
@@ -3514,7 +3475,6 @@
 *.826306.com
 *.827667.com
 *.828bet.net
-*.82942.vip
 *.82supercatcasino.com
 *.82verdecasino.com
 *.82vnd.com
@@ -3540,7 +3500,6 @@
 *.855bet.com
 *.855casino.org
 *.855win.com
-*.856306.com
 *.8565837.xyz
 *.8571n.com
 *.858507.com
@@ -3572,7 +3531,6 @@
 *.86fun88.com
 *.870055.com
 *.870088.com
-*.87215.xyz
 *.87229.net
 *.872thvip.com
 *.872thwin.com
@@ -4252,7 +4210,6 @@
 *.93881n.com
 *.9393a2.app
 *.93995s.com
-*.942793.com
 *.944bet.com
 *.944bet6.com
 *.944bet7.com
@@ -4269,7 +4226,6 @@
 *.9544.com
 *.955br.com
 *.9581.com
-*.96002.vip
 *.960022.com
 *.9606.com
 *.96299.wang
@@ -4304,10 +4260,8 @@
 *.9860.com
 *.987admiral-xxx.com
 *.9881155.com
-*.988559d.com
 *.98866.top
 *.9887.com
-*.988bet.info
 *.9898.ag
 *.9898.biz
 *.9898.com
@@ -4483,7 +4437,6 @@
 *.a23.com
 *.a26bet.com
 *.a318win.com
-*.a365ok.com
 *.a3bet.com
 *.a3g7b9.buzz
 *.a6.com
@@ -4704,6 +4657,7 @@
 *.admiralbet.com
 *.admiralbet.de
 *.admiralbet.es
+*.admiralbet.it
 *.admiralcasino.com
 *.admiralcasino.email
 *.admiralcasino.space
@@ -6620,6 +6574,7 @@
 *.betify.co
 *.betify.com
 *.betify.pro
+*.betify1.com
 *.betika.com
 *.betin1.com
 *.betindex.net
@@ -7275,7 +7230,6 @@
 *.bk8thaifan.com
 *.bk8thweb.com
 *.bk8tt.com
-*.bk8victoria.com
 *.bk8vietnam.com
 *.bk8vn2.com
 *.bk8vnadv.com
@@ -7414,7 +7368,6 @@
 *.bmbm888.com
 *.bmrl.io
 *.bmw-4d.com
-*.bmw1146.com
 *.bmw4d-10.com
 *.bmw4d-11.com
 *.bmw4d-slot.com
@@ -7531,7 +7484,6 @@
 *.bong90.life
 *.bong90.tech
 *.bong99.cc
-*.bongda66.com
 *.bongdalu1.com
 *.bongdalu4.com
 *.bongdaluvip.site
@@ -9007,6 +8959,7 @@
 *.casinoacehub.com
 *.casinoaction.com
 *.casinoaction.top
+*.casinoadmiral.cz
 *.casinoadmiral.lt
 *.casinoadmiral.nl
 *.casinoadmiral.online
@@ -9757,6 +9710,7 @@
 *.casinomya.info
 *.casinon.com
 *.casinon.in
+*.casinon-sverige.nu
 *.casinonadbettingusa.com
 *.casinonandbettingnl.com
 *.casinonano.com
@@ -15822,7 +15776,6 @@
 *.glorycasinoz.com
 *.glowcasino.info
 *.glrpc.games
-*.gm5666.com
 *.gm896.com
 *.gmbet18.com
 *.gmbet21.com
@@ -16471,7 +16424,6 @@
 *.hanyakaspoker.shop
 *.hanyamio.net
 *.hanyaslt.org
-*.hao4466.com
 *.ttkm.haohao789.com
 *.hapi888.com
 *.happinessisagamble.com
@@ -16663,7 +16615,6 @@
 *.heyspin.com
 *.heyupdatemyvoice.org
 *.hg1946.net
-*.hg66666.com
 *.cdn.hg66sdt65nfx64.com
 *.hgvip.app
 *.hgvip138.com
@@ -19335,8 +19286,6 @@
 *.js565a.com
 *.js565a.vip
 *.js6.org
-*.js99723.com
-*.js99728.com
 *.jss77.net
 *.jsvip6.com
 *.jsvip7.com
@@ -19611,7 +19560,6 @@
 *.k9vn.me
 *.k9vn999.com
 *.k9win.boo
-*.k9win.city
 *.k9win.com
 *.k9win.gg
 *.k9win.in
@@ -20047,9 +19995,7 @@
 *.ko66aa.me
 *.ko66aa.org
 *.ko66aa.vip
-*.ko66bbb.com
 *.ko66cc.vip
-*.ko66ccc.dev
 *.ko66mob.com
 *.koalaroyal.com
 *.koalasfairgo.com
@@ -23744,6 +23690,7 @@
 *.nyaimansion.one
 *.nyaislot88.com
 *.nyakocasino.com
+*.nyaonlinecasinon.nu
 *.nyecasino.eu
 *.nyecasino.me
 *.nyforme.com
@@ -23901,6 +23848,7 @@
 *.olenation888qq.com
 *.oleviet777.com
 *.olevn777.com
+*.oleybet.com
 *.olg.ca
 *.olgslotsandcasinos.ca
 *.olimp.bet
@@ -25922,6 +25870,7 @@
 *.pop555.com
 *.popbra.com
 *.popcasino.se
+*.poplottery.com
 *.popmantap4d.pro
 *.popo.bet
 *.popo3321.com
@@ -26556,7 +26505,6 @@
 *.realmoney-casino.ca
 *.realmoneyaction.com
 *.realmoneycasinobug.com
-*.realpoker24.com
 *.realprize.com
 *.realrich24casino.com
 *.reals-casino.me
@@ -29329,6 +29277,7 @@
 *.spillehallen.dk
 *.spilnu.dk
 *.spiludenomrofus.casino
+*.spin.ro
 *.spin-casino.space
 *.spin-casino.top
 *.spin-city-casino.site
@@ -30504,6 +30453,7 @@
 *.threeriverscasino.com
 *.thrills.com
 *.thrillscasino.top
+*.thrillzz.com
 *.thtopcasino.com
 *.thunderboltcasino.com
 *.thunderboltcasino.top
@@ -31935,7 +31885,6 @@
 *.vn88.io
 *.m.vn88hn.live
 *.vn88yes.live
-*.vn9622.com
 *.vnadssb.com
 *.vnaz888.com
 *.vnbong188.com
@@ -32771,7 +32720,6 @@
 *.wgbet33.com
 *.wgh.ag
 *.wh.bet
-*.wh1129.com
 *.whamoo.com
 *.wheelz.com
 *.wheelz-casino.top
@@ -33498,7 +33446,6 @@
 *.xosok8cc.com
 *.xox232.com
 *.xparibet.com
-*.xpj2968.com
 *.xplay-fortuna.info
 *.xqchess.com
 *.xr7xmtj0.com
@@ -33599,8 +33546,6 @@
 *.yetcasino.com
 *.yeticasino.com
 *.yfw0en.ink
-*.yh99929.com
-*.yhc775.com
 *.yhdtjiekou.com
 *.yhh3318.com
 *.yhh83t.com

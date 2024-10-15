@@ -2094,6 +2094,13 @@
       }
     },
     {
+      "PK": "stripe.partners",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "suiten.top",
       "action": {
         "do": 1,
@@ -2424,6 +2431,13 @@
     },
     {
       "PK": "xhamster.desi",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "xh.partners",
       "action": {
         "do": 1,
         "status": 1
