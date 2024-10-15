@@ -1,8 +1,5 @@
 name: Release
 
-env:
-  INCREMENTAL_TYPE: minor
-
 on:
   push:
     branches:
@@ -23,6 +20,6 @@ jobs:
           add_description: "Release of the last full build."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
-          REPO_NAME: ${{ secrets.REPO_NAME }}
-          INCREMENTAL_TYPE: ${{ env.INCREMENTAL_TYPE }}
+          GITHUB_USERNAME: hagezi
+          REPO_NAME: dns-blocklists
+          INCREMENTAL_TYPE: minor
