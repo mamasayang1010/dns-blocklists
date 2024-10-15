@@ -1,4 +1,14 @@
 # Domains to be added to the gambling list.
+
+6686a58.com
+anjingl.com
+004nfaa-api-wap-dcdn.anjingl.com
+004nfaa-fluid-aliyun.anjingl.com
+004nfaa-wss-wap-dcdn.anjingl.com
+be-source.anjingl.com
+fe-source.anjingl.com
+i18n-004nfaa.anjingl.com
+
 0-bet.com
 0-betsixty.com
 000000.com
