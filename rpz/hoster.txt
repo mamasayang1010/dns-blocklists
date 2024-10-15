@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1728684840 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1728944100 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 11 Oct 2024 22:14 UTC
-; Version: 2024.1011.2214.46
+; Last modified: 14 Oct 2024 22:15 UTC
+; Version: 2024.1014.2215.33
 ; Syntax: RPZ
-; Number of entries: 3706
+; Number of entries: 3712
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2263,6 +2263,8 @@ eu.gg CNAME .
 *.eu.gg CNAME .
 fun.gg CNAME .
 *.fun.gg CNAME .
+it.gg CNAME .
+*.it.gg CNAME .
 ru.gg CNAME .
 *.ru.gg CNAME .
 server.gg CNAME .
@@ -2591,6 +2593,8 @@ over-blog.it CNAME .
 *.over-blog.it CNAME .
 blogautore.repubblica.it CNAME .
 *.blogautore.repubblica.it CNAME .
+sitowebfaidate.it CNAME .
+*.sitowebfaidate.it CNAME .
 webnode.it CNAME .
 *.webnode.it CNAME .
 2.je CNAME .
@@ -2613,6 +2617,8 @@ asablo.jp CNAME .
 *.asablo.jp CNAME .
 blog.jp CNAME .
 *.blog.jp CNAME .
+bloggeek.jp CNAME .
+*.bloggeek.jp CNAME .
 blogimg.jp CNAME .
 *.blogimg.jp CNAME .
 blogspot.jp CNAME .

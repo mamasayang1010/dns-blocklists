@@ -601,7 +601,6 @@
 @@||glmr.co^
 @@||glnk.io^
 @@||glo.bo^
-@@||glo.li^
 @@||gma.abc^
 @@||gmj.tw^
 @@||go.aws^

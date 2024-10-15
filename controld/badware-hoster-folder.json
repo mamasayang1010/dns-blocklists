@@ -2521,6 +2521,13 @@
       }
     },
     {
+      "PK": "bloggeek.jp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bloggerbags.com",
       "action": {
         "do": 0,
@@ -7365,6 +7372,13 @@
       }
     },
     {
+      "PK": "it.gg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "itgo.com",
       "action": {
         "do": 0,
@@ -10264,6 +10278,13 @@
     },
     {
       "PK": "sitew.fr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sitowebfaidate.it",
       "action": {
         "do": 0,
         "status": 1

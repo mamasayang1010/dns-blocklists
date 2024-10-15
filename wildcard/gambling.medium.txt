@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Oct 2024 22:41 UTC
-# Version: 2024.1013.2241.08
+# Last modified: 14 Oct 2024 22:42 UTC
+# Version: 2024.1014.2242.41
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 163718
+# Number of entries: 163762
 #
 *.0-bet.com
 *.0-betsixty.com
@@ -6231,6 +6231,7 @@
 *.122ds900.com
 *.122krvip.com
 *.122qtt.com
+*.122qzone.com
 *.122tycvip.com
 *.122z6.com
 *.123.game
@@ -7108,6 +7109,7 @@
 *.1329ky.com
 *.1329t.com
 *.132ktv.com
+*.132qbiz.com
 *.132qzone.com
 *.132tycvip.com
 *.132yd.com
@@ -10574,6 +10576,7 @@
 *.181kaiyun.vip
 *.181ks.net
 *.181tiyu.com
+*.181vip6.com
 *.181yh2.com
 *.181z6.com
 *.1820ky.com
@@ -13928,6 +13931,7 @@
 *.202kaiyun.net
 *.202kaiyun.vip
 *.202kyty.com
+*.202qinfo.com
 *.202superph.vip
 *.202y.net
 *.2030409.com
@@ -16457,6 +16461,7 @@
 *.22bet34.com
 *.22bet35.com
 *.22bet5.com
+*.22bet65.com
 *.22bet7.info
 *.22bet89.com
 *.22bet999.bet
@@ -21557,6 +21562,7 @@
 *.2planet7.com
 *.2pptiger.com
 *.2putu.online
+*.2q.team
 *.static.2q.photos
 *.2q556.com
 *.2qbongda.club
@@ -21587,11 +21593,13 @@
 *.2qvnt07.com
 *.2qvnt08.com
 *.2qvnt09.com
+*.2qvnt10.com
 *.2qvnt12.com
 *.2qvnt13.com
 *.2qvnt14.com
 *.2qvnt16.com
 *.2qvnt20.com
+*.2qwin.net
 *.hoantra.2qwin.top
 *.khail0c.2qwin.top
 *.l0c.2qwin.top
@@ -21632,6 +21640,7 @@
 *.2u556.com
 *.2u99f.com
 *.2up.club
+*.2uq1.com
 *.2uz8y.com
 *.2v556.com
 *.2vip365666.com
@@ -26497,6 +26506,7 @@
 *.3659www.net
 *.3659x.win
 *.3659xx.net
+*.3659xxx.com
 *.3659xxx.net
 *.3659y.win
 *.3659yy.com
@@ -26699,6 +26709,7 @@
 *.3675p.com
 *.3675v.com
 *.3675x.com
+*.36760101.com
 *.3676s.com
 *.3676v.com
 *.367774.com
@@ -53459,6 +53470,7 @@
 *.78win05.com
 *.78win07.com
 *.78win09.com
+*.78win7.pub
 *.78win78.com
 *.78win88.com
 *.78yabo.com
@@ -74321,6 +74333,7 @@
 *.babysplan.net
 *.babyvvip.com
 *.bacan4dline.com
+*.bacana777.bet
 *.bacanacasino.top
 *.bacanaplay.com
 *.bacanaplay.pt
@@ -75366,6 +75379,7 @@
 *.bbb8g.com
 *.bbb9416.com
 *.bbbb5454.com
+*.bbbgame.com
 *.bbbgame.vip
 *.bbbgameapp.com
 *.bbc556.net
@@ -75416,6 +75430,7 @@
 *.bbr2bet.com
 *.bbr996.com
 *.bbrbet07.com
+*.bbrbet51.com
 *.bbryxeq.com
 *.bbsoju27.lol
 *.bbst0.com
@@ -79032,6 +79047,7 @@
 *.biyo8.com
 *.zhumbacasino77.biz.id
 *.biz2q12.com
+*.biz2q15.com
 *.biz8d06.com
 *.bizbet.partners
 *.bizbet-giris.com
@@ -83285,6 +83301,7 @@
 *.cannerycasino.com
 *.cannonbet.com
 *.canowl.xyz
+*.canplaycasino.com
 *.canterburypark.com
 *.cantik4d.asia
 *.cantiktotologin.com
@@ -94224,6 +94241,7 @@
 *.espisangijo.com
 *.espnbet.com
 *.espnsportsbook.com
+*.esport247.info
 *.esport88.net
 *.esport88.vip
 *.esport88.win
@@ -94342,6 +94360,7 @@
 *.europeangaming.eu
 *.europeanpokertour.com
 *.europeen777.com
+*.europefortune.com
 *.europefortune-fast.com
 *.europefortune-send.com
 *.europoker.com
@@ -100545,6 +100564,7 @@
 *.germaniacasino.top
 *.germanonlinecasinos.com
 *.germany-casino.com
+*.gerotahotels.com
 *.gerver.vip
 *.gerxwz.com
 *.gesit777great.com
@@ -101321,6 +101341,7 @@
 *.godjogo.co
 *.godjogo.com
 *.godjogo.io
+*.godofwins1.com
 *.godota2.com
 *.godroi.xyz
 *.godslot.live
@@ -101483,6 +101504,7 @@
 *.goldenstar-casino1.com
 *.goldenstar-casino35.com
 *.goldenstar-casino36.com
+*.goldenstar-casino37.com
 *.goldenstarplay1.com
 *.goldenstarplay2.com
 *.goldenstrike.live
@@ -101759,6 +101781,7 @@
 *.goug9.com
 *.mpi.gov.tr
 *.ttconnect.gov.tt
+*.lotterywest.wa.gov.au
 *.govip355.com
 *.gowagerhub.com
 *.gowildcasino.com
@@ -108124,6 +108147,7 @@
 *.info-ls168.com
 *.info-vavada-casino.com
 *.info122q.com
+*.info12q.com
 *.info132q.com
 *.info152q.com
 *.info162q.com
@@ -116593,6 +116617,7 @@
 *.kgsge.com
 *.kh1ads.site
 *.khai3779.win
+*.khamphasampham.cc
 *.khanh201.win
 *.khanhhan.vip
 *.khaopad.com
@@ -120990,6 +121015,7 @@
 *.luckycasino.world
 *.luckycharmbingo.com
 *.luckycharms.co
+*.luckycircus1.com
 *.luckycircuscasino.com
 *.luckyclic.it
 *.luckyclub777.live
@@ -122984,6 +123010,7 @@
 *.mayizhifuapi888.vip
 *.mayman68.com
 *.mayorrelx.art
+*.mazdaraceway.com
 *.mb07.com
 *.mb1314.com
 *.mb2022.vip
@@ -128565,6 +128592,7 @@
 *.olybet.lt
 *.olybet.lv
 *.olybetcasino.top
+*.olymp-casino-olimp.kz
 *.olymp22.xyz
 *.olympia.casino
 *.olympia2.casino
@@ -133853,6 +133881,7 @@
 *.pp9h.vip
 *.pp9pgslot.com
 *.ppaawinwin.com
+*.ppbet.club
 *.ppbjogo.com
 *.ppbk6.com
 *.ppbk8.com
@@ -137129,6 +137158,7 @@
 *.robots.cash
 *.robotsceter.shop
 *.robwaterhouse.com
+*.robycasino.com
 *.robzu.com
 *.rocasino.dev
 *.rochoi888.com
@@ -140703,6 +140733,7 @@
 *.sibotakqq.info
 *.sicbokaisarpoker.lol
 *.sicepat.online
+*.sicherwetten.at
 *.sichuanc7.com
 *.sicsih.xyz
 *.sidbangkit.com
@@ -142737,6 +142768,7 @@
 *.spindipity.com
 *.spinero.com
 *.spinfever.com
+*.spinfever1.com
 *.spinfevercasinos.com
 *.spinfinity.casino
 *.spinforyou.icu
@@ -148284,6 +148316,7 @@
 *.tt43370.com
 *.tt4ku.co
 *.tt5889.com
+*.tt72q.com
 *.tt8087.com
 *.tt81866.com
 *.tt82q.com
@@ -152486,6 +152519,7 @@
 *.vnloto.com
 *.vnloto.vip
 *.vnlotovn.com
+*.vnm999.com
 *.vnmanbetx.com
 *.vnmx66.com
 *.vnn123.com
@@ -153195,6 +153229,7 @@
 *.vtp968675747.win
 *.vty01.com
 *.w9.vty07.com
+*.vty08.net
 *.w9.vty11.vip
 *.w9.vty11k.com
 *.w9.vty12a.com
@@ -154185,7 +154220,13 @@
 *.vz294.com
 *.vz297.com
 *.vz308.com
+*.vz342.com
+*.vz355.com
+*.vz357.com
+*.vz361.com
+*.vz433.com
 *.vz525.com
+*.vz566.com
 *.vz599.com
 *.vz668.com
 *.vz681.com
@@ -155822,6 +155863,7 @@
 *.win-vegasplus.com
 *.win-win.fun
 *.win007app.com
+*.win007b.com
 *.win036.com
 *.win04.vip
 *.win05.vip
@@ -156205,6 +156247,7 @@
 *.winmachancedyn.com
 *.winmachancefab.com
 *.winmachancemaj.com
+*.winmaker.com
 *.winmaniacasino.com
 *.winmario-win.lol
 *.winmario-win.today
@@ -156958,7 +157001,6 @@
 *.woosung33.com
 *.woq1zdw17ujs0kyjuwzuq.buzz
 *.8xbetgcom.wordpress.com
-*.bestinsports254.wordpress.com
 *.betwinnerguide.wordpress.com
 *.k9winreview.wordpress.com
 *.lottomedium.wordpress.com
@@ -161573,6 +161615,7 @@
 *.yeszon.com
 *.yetcasino.com
 *.yeticasino.com
+*.yetiwin777.com
 *.yeubongda88.net
 *.yeuthethao88.com
 *.yezq.top
@@ -162746,6 +162789,7 @@
 *.z05500.com
 *.z0w52cwto6qjvg4i.app
 *.z1004wpa.com
+*.z11-a.com
 *.z1190.com
 *.z1239.com
 *.z13877.com

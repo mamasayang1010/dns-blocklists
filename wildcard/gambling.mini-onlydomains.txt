@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Oct 2024 22:30 UTC
-# Version: 2024.1013.2230.50
+# Last modified: 14 Oct 2024 22:32 UTC
+# Version: 2024.1014.2232.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 33894
+# Number of entries: 33867
 #
 0-betsixty.com
 0-casino.info
@@ -149,7 +149,6 @@
 0933win.com
 094789.com
 095236.com
-09535.vip
 095bet.app
 095bet.com
 096159.com
@@ -210,7 +209,6 @@
 101win.ru
 1020yh.com
 1025.biz
-10454.net
 106-azino888.win
 1065bets10.com
 1066bets10.com
@@ -311,7 +309,6 @@ images.11029984.com
 1126bets10.com
 1127bets10.com
 1128bets10.com
-112923.com
 1129bets10.com
 1130bets10.com
 1131bets10.com
@@ -336,7 +333,6 @@ images.11029984.com
 1149bets10.com
 114bet6.com
 114bet7.com
-114dabao.com
 1150bets10.com
 1152bets10.com
 1153bets10.com
@@ -436,11 +432,10 @@ images.11029984.com
 1219bets10.com
 121kolaybet.com
 1227069.com
-12282.vip
+122qzone.com
 123.game
 12312304.com
 www.12312305.com
-1234dabao.com
 1236630.com
 1237bet.com
 123b.today
@@ -490,6 +485,7 @@ www.123b.org
 12yingli.com
 13023.vip
 13262y.com
+132qbiz.com
 133806.com
 133skwin.com
 135588.net
@@ -1483,6 +1479,7 @@ s6-viet.227290wss.com
 22bet32.com
 22bet34.com
 22bet5.com
+22bet65.com
 22bet89.com
 22betcasino-hu.click
 22betcasino-pl.pl
@@ -1674,6 +1671,7 @@ b.2halubet76.co
 2p662meno.com
 2pgvip.com
 2pptiger.com
+2q.team
 static.2q.photos
 2rainhaspg.com
 2sloto123.xyz
@@ -1682,6 +1680,7 @@ static.2q.photos
 2supervip-ph.com
 2suvpg.com
 2taya365.com
+2uq1.com
 2winbet.gr
 2xbetvn.com
 2xtreme.net
@@ -1706,10 +1705,6 @@ tlixi.2y8b1a9jb5falz6.site
 30winvn.com
 3118.com
 311lovejili.com
-312134.com
-312135.com
-312139.com
-312143.com
 31231231.com
 3128368.com
 images.3138722.com
@@ -1725,7 +1720,6 @@ images.3138722.com
 3257894.co
 3263.com
 32662.com
-32832.vip
 32red.com
 32redbingo.com
 32redpoker.com
@@ -1883,7 +1877,6 @@ www.33beta.com
 358883.com
 35968.win
 35lovejili.net
-35luck.com
 3609.tw
 3615www.com
 3615xxx.com
@@ -1924,6 +1917,7 @@ www.33beta.com
 365sport365.com
 365xpg.com
 365yy.pro
+36760101.com
 368162.app
 368mega-kiw-kiw.com
 369dabao.com
@@ -1936,7 +1930,6 @@ www.33beta.com
 3713app8.com
 3713n5.com
 371joycasino.top
-37360n.com
 374joycasino.top
 3757.com
 375joycasino.top
@@ -1960,7 +1953,6 @@ www.33beta.com
 39358899.com
 393960.com
 3953049.com
-396692.com
 3977.com
 3979tt.vip
 398881.com
@@ -2322,7 +2314,6 @@ www.3zbet.com
 552fun.com
 553274.com
 553328.com
-55335y.com
 553389.com
 553777.cc
 55555234.com
@@ -2333,7 +2324,6 @@ www.3zbet.com
 55567k.com
 555789win.com
 5557x.com
-55584.bet
 55599.club
 555bets10.com
 555club.vip
@@ -2604,12 +2594,10 @@ www.3zbet.com
 63611.top
 636admiral-xxx.com
 63ffecavd08dl1xi.app
-63nolimitway.com
 6433.tw
 6446t.com
 645lotto.net
 646wns.com
-647268.com
 64good88.com
 650103.com
 650nn.com
@@ -2621,7 +2609,6 @@ www.3zbet.com
 658bet8.com
 658k8.com
 65bet999.bet
-65k66.com
 66066.club
 660718.com
 661124.com
@@ -2982,13 +2969,9 @@ images.6929183.com
 771512.com
 771562.com
 771639.com
-77183.vip
 771koi.com
-77224d.com
-77224g.com
 77270.com
 7733377.com
-7744384.com
 7744pnl.com
 7755778.net
 775bet.com
@@ -3521,8 +3504,6 @@ fb0002.777locad.pro
 81hthg.com
 82045577.com
 82046644.com
-8205-2.com
-8205-6.com
 8205566.com
 82267.net
 8233.com
@@ -3544,7 +3525,6 @@ fb0002.777locad.pro
 8337503.com
 833win.com
 8356.com
-836599x.com
 837986.com
 838399.com
 838882.com
@@ -4258,7 +4238,6 @@ app.8xbet-vip.io
 924bets10.com
 927fu.com
 9283v.com
-9292050.com
 92928.vip
 92lottery.com
 92z8pr.buzz
@@ -4326,7 +4305,6 @@ app.8xbet-vip.io
 987admiral-xxx.com
 9881155.com
 988559d.com
-988634.com
 98866.top
 9887.com
 988bet.info
@@ -4408,7 +4386,6 @@ app.8xbet-vip.io
 99brl.com
 99casinos.com
 99casoo.com
-99dabao.com
 99hi88.com
 99i9bet.com
 99k.fun
@@ -4509,7 +4486,6 @@ a318win.com
 a365ok.com
 a3bet.com
 a3g7b9.buzz
-a43379.com
 a6.com
 a6128.com
 a6358.com
@@ -5949,6 +5925,7 @@ bazar3958.com
 bb010723.com
 bb7u.com
 bbb777.vip
+bbbgame.com
 bbbgameapp.com
 bbet.it
 bbet888.bet
@@ -5961,6 +5938,7 @@ bbotop.com
 bbqce.com
 bbr2bet.com
 bbrbet07.com
+bbrbet51.com
 bbryxeq.com
 bbtn4dcall.com
 bbtn4dgass.com
@@ -6688,7 +6666,6 @@ betmgm.com
 betmgm9.com
 betmgmpartners.com
 betmira.com
-betmm6.com
 betmostpoker.com
 betmotion.com
 betmylines.com
@@ -7008,7 +6985,6 @@ beyondcasino.info
 bezdep-bonuscasino10.xyz
 bf-nomadgames-18528.xyz
 bf0hl.today
-bf151.com
 bf88h1.com
 bf88h2.com
 bf88h4.com
@@ -8216,6 +8192,7 @@ canlicasino25.com
 canlicasinomax.com
 cannerycasino.com
 cannonbet.com
+canplaycasino.com
 canterburypark.com
 cantiktotologin.com
 cantrellandcochrane.com
@@ -11946,13 +11923,11 @@ da88.pro
 da88vn.win
 dabao00.com
 dabao11.com
-dabao114.com
 dabao1234.com
 dabao147.com
 dabao163.com
 dabao22.com
 dabao2222.com
-dabao258.com
 dabao33.com
 dabao333.com
 dabao4444.com
@@ -13353,6 +13328,7 @@ europeancasinoawards.com
 europeancasinobonuses.com
 europeangaming.eu
 europeanpokertour.com
+europefortune.com
 europoker.com
 euroslots.com
 eurosportbet.fr
@@ -15662,6 +15638,7 @@ germancasinobonuses.com
 germaniacasino.top
 germanonlinecasinos.com
 germany-casino.com
+gerotahotels.com
 gesit777great.com
 gesit77great.com
 get-paid.com
@@ -16016,6 +15993,7 @@ goldenscrowncasino.com
 goldenstar-casino.com
 goldenstar-casino35.com
 goldenstar-casino36.com
+goldenstar-casino37.com
 goldentiger.casino
 goldentigercasino.com
 goldentigercasino.top
@@ -16149,6 +16127,7 @@ gotosbo.com
 gotosportsbook.com
 mpi.gov.tr
 ttconnect.gov.tt
+lotterywest.wa.gov.au
 gowagerhub.com
 gowildcasino.com
 gowin39.com
@@ -16686,7 +16665,6 @@ heyupdatemyvoice.org
 hg1946.net
 hg66666.com
 cdn.hg66sdt65nfx64.com
-hg898.vip
 hgvip.app
 hgvip138.com
 hgw2248.com
@@ -17027,14 +17005,12 @@ humairahmed.com
 humboldtkitchenandbar.com
 hungryforhits.com
 hunkybingo.com
-huobo33.com
 hustlercasino.com
 hutansumatera.com
 hutcasino.xyz
 hx198.vip
 hy170.com
 hy399.com
-hy88889.com
 hyggecasino.dk
 hyip-zanoza.me
 hyipfinance.com
@@ -17443,7 +17419,6 @@ idolahein.com
 idolajuara.com
 idolajuaranya1.com
 idoslotgacor.com
-idr66.com
 idxstarnomorsatu.top
 idxstarterbaik.top
 ieltsvictoria.com
@@ -18847,7 +18822,6 @@ jjbet.org
 jjbet.pro
 jjbet.vip
 jjdtt.com
-jjj8222.com
 jjjjjertqqo2222.com
 jjjjjogo.com
 jjjjogo.com
@@ -18858,6 +18832,7 @@ jl1plus.com
 jlbet.app
 jlbet.bet
 jlbet.net
+jlbet.org
 jlbet0.com
 jlbet00.com
 jlbet05.com
@@ -19546,7 +19521,6 @@ k55win.com
 k62483.cc
 k63527.cc
 k6545.vip
-k6619.vip
 k668dwek.info
 k69bet.cc
 k69bet.com
@@ -20076,7 +20050,6 @@ ko66aa.vip
 ko66bbb.com
 ko66cc.vip
 ko66ccc.dev
-ko66eee.info
 ko66mob.com
 koalaroyal.com
 koalasfairgo.com
@@ -20311,7 +20284,6 @@ l6bet5.com
 l6bet6.com
 l6bet7.com
 l8leb5qxs.com
-l956509232.vip
 l99mb.com
 la-fiesta-casino.com
 la-riviera-casino.com
@@ -22036,6 +22008,7 @@ may88vn.top
 mayancasino.com
 mayflowercasino.com
 mayman68.com
+mazdaraceway.com
 mb661.me
 mb88.bet
 mb88.com
@@ -23008,7 +22981,6 @@ n1necasino.com
 n1newin.com
 n1p7j3.ink
 n269yth.com
-n5359.com
 n5ypr7.ink
 n6001.com
 n6223.com
@@ -23171,6 +23143,7 @@ onlinecasinos365.net.nz
 pin-up-casino.net.br
 rox-casino.net.ua
 net33d.com
+net88.ac
 net88.com
 net88.tv
 net88.vip
@@ -23321,6 +23294,7 @@ new88q.com
 new88s.com
 new88t.com
 new88v.com
+new88w.com
 new88z.com
 newabca.com
 newasd8.com
@@ -23963,6 +23937,7 @@ olybet.eu
 olybet.lt
 olybet.lv
 olybetcasino.top
+olymp-casino-olimp.kz
 olymp22.xyz
 olympia.casino
 olympia2.casino
@@ -25319,8 +25294,6 @@ pixbetcasino.top
 pixelcasino.top
 pixiubet.help
 pixiugame.site
-pj77vip2.com
-pj77vip3.com
 pk88-web.com
 pk884sia.com
 pk88ajaib.com
@@ -26029,6 +26002,7 @@ pp88app.com
 pp9brl.com
 pp9g.vip
 pp9h.vip
+ppbet.club
 ppbjogo.com
 ppcasinos.com
 ppdewacasino.vip
@@ -26228,7 +26202,6 @@ pxj77.com
 pxj888.com
 pxj90.com
 pxxjsx.ink
-pxy190822.vip
 232ttf.pxzosfe.com
 pyszne.pl
 pzbuk.pl
@@ -27463,7 +27436,6 @@ roxkzcasino69.com
 roxypalace.com
 royaalcasino.com
 royal-casino.net
-royal-casino.site
 royal-casino.xyz
 royal-flamingo-casino.com
 royal228e.com
@@ -28319,6 +28291,7 @@ siam855.com
 siam855.net
 siapweng.com
 sibelangharimau368.xyz
+sicherwetten.at
 siddhaquest.com
 sieukeo.live
 sifa-online.dk
@@ -29410,6 +29383,7 @@ spindazzlecasino.com
 spindelightcasino.com
 spinero.com
 spinfever.com
+spinfever1.com
 spinfinity.casino
 spingalaxy.com
 spingenie.com
@@ -31980,6 +31954,7 @@ vnkucdn.net
 vnkuvideo.com
 vnloto.com
 vnloto.vip
+vnm999.com
 vnmx66.com
 vnn123.com
 vnn138.com
@@ -32335,6 +32310,7 @@ vt288bet.com
 vt688.com
 vtforeignpolicy.com
 vty01.com
+vty08.net
 w9.vty68.net
 vua2.club
 authen.vua2-ldp.com
@@ -32523,6 +32499,9 @@ vz103.com
 vz291.com
 vz292.com
 www.vz293.com
+vz355.com
+vz361.com
+vz566.com
 vz681.com
 vz682.com
 vz684.com
@@ -32535,7 +32514,6 @@ vz99.ws
 vz992.com
 w-sunwin.net
 w1155.com
-w1449.com
 w18001.com
 w1pg.com
 w1xbet.ru
@@ -32622,9 +32600,6 @@ w88world.com
 w88ww6.com
 w88ww8.com
 w88ww9.com
-w8992.com
-w8993.com
-w8997.com
 w9668.com
 w9bet11.com
 w9bet66.com
@@ -32998,6 +32973,7 @@ winmachancecasino-share.com
 winmachancecasino-sphere.com
 winmachancecasino-table.com
 winmachancecasino-visit.com
+winmaker.com
 winmaniacasino.com
 winmario-win.today
 winmasters.com
@@ -33106,7 +33082,6 @@ winuniquecasino-yes.com
 winuno7.com
 winvegasplus-all.com
 winvegasplus-bell.com
-winvegasplus-big.com
 winvegasplus-blend.com
 www.winvegasplus-bold.com
 winvegasplus-eye.com
@@ -33406,7 +33381,6 @@ x0800.com
 x1000vivo4d.top
 x1490.com
 x1545.com
-x19989.com
 x1casino.com
 x3000.com
 x311y.com
@@ -33459,7 +33433,6 @@ xemdagacampuchia.com
 xemwc2022.com
 xfile101.com
 xg13bepf8.com
-xgmh229.com
 xiaofeihuang.com
 xiaojinsport.com
 xifali.com
@@ -33685,7 +33658,6 @@ yoyocasino.top
 yoyocasino4.com
 yruws6.com
 ys88vvip.com
-ysb8q.com
 ysense.com
 yswin.com
 yswin3.com
@@ -33726,6 +33698,7 @@ yyyjl.com
 yz8811.com
 yztdrh.com
 z-ufa.com
+z11-a.com
 z264tdr3l.com
 z6.com
 z609.bet
